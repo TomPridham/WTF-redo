@@ -6,6 +6,7 @@ angular.module('WTF', ['ui.router']);
 
 angular.module('WTF').config(function ($urlRouterProvider, $stateProvider) {
 
+    $urlRouterProvider.otherwise('/');
     $stateProvider
 
         .state('home', {
@@ -24,9 +25,22 @@ angular.module('WTF').config(function ($urlRouterProvider, $stateProvider) {
             controller: 'companyCtrl'
         })
         .state('products', {
-            url: '/products/:product',
+            url: '/products',
             templateUrl: 'products/productsView.html',
-            controller: 'productCtrl'
+            controller: 'productsCtrl',
+
+        })
+        .state('product', {
+            url: '/products/:category/:productId',
+            template: '<product></product>',
+
+            resolve: {
+                productInfo: function ($stateParams,productService) {
+
+                    return productService.getProduct($stateParams.category,$stateParams.productId);
+                }
+
+            }
         })
         .state('contact', {
             url: '/contact',

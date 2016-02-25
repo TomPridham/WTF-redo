@@ -1,3 +1,88 @@
+html {
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+body {
+    font-family: Verdana, sans-serif;
+    color: #777777;
+}
+
+.navbar-default {
+    border-bottom: none;
+    opacity: .5;
+    background-color: #FDFDFE;
+
+}
+
+.top-main {
+    height: 300px;
+    background: url("../images/FotorCreated.jpg") center no-repeat;
+    z-index: -1;
+
+    -webkit-background-size: 100% 100%;
+    background-size: 100% 100%;
+    /*margin-bottom: 20px;*/
+}
+
+.logo{
+    height: 65px;
+    padding:0px;
+    background-size: contain;
+}
+
+.footer {
+    height: 60px;
+    background-color: #777E81;
+    color: white;
+    padding: 5px;
+}
+
 .dark {
     background-color: darkgray;
+}
+
+.light-gray-back {
+    background-color: #F5F5F5;
+}
+
+.squish > * {
+    display: inline-flex;
+}
+
+.navbar-nav li a {
+    line-height: 65px;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.center {
+    margin: auto;
+    align-items: center;
+    text-align: center;
+}
+
+.home {
+    width: 80%;
+    /*margin-top: 20px;*/
+    /*margin-bottom: 20px;*/
+}
+
+.space{
+    padding:20px;
+}
+
+.yellow {
+    color:#FFD100;
+}
+
+.right-border{
+    border-right: solid 2px;
+}
+
+.section-header{
+    font-size: 150%;
+    color:pink;
 }

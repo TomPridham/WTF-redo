@@ -1,1 +1,43 @@
-<div>this is the products page</div>
+<div class="container space">
+    <p>We keep a selection of our most popular test fixtures, accessories, and adapters in stock at all times available
+        for prompt shipment.</p>
+    <p> We are also able to design and fabricate custom fixtures based on your specifications and needs.</p>
+    <p>Please contact us for current prices of our standard fixtures and for quotes on custom fixtures.</p>
+
+    <div class="col-xs-6 col-sm-4 right-border">
+        <h4>LOW CARBON STEEL</h4>
+        <p> Low carbon steel fixtures are intended for use at temperatures from room temperature up to 500°F (260°C), in
+            normal laboratory humidity environments. Our low carbon steel fixtures are black oxide treated to minimize
+            rust and corrosion in normal laboratory environments. Components requiring high hardness and/or high
+            strength, e.g., specimen grips, buckling constraints, load bearing blocks, etc., are fabricated of heat
+            treated tool
+            steel.</p>
+    </div>
+
+    <div class="col-xs-6 col-sm-4 right-border">
+        <h4> 17-4PH STAINLESS STEEL</h4>
+        <p> Our stainless steel fixtures are intended for use at temperatures from cryogenic up to 1000°F (540°C), in
+            either dry or wet environments. All of our stainless steel fixtures are fabricated of 17-4PH stainless
+            steel. The
+            17-4PH is a high performance stainless steel, having a room temperature yield strength at least twice that
+            of the 300- and 400-series stainless steels typically used, and it retains its strength and stiffness
+            properties much better at elevated temperatures. All components requiring very high hardness and/or yield
+            strength are
+            fabricated of heat treated 440C stainless steel.</p>
+    </div>
+
+    <div class="col-xs-6 col-sm-4">
+        <h4> NICKEL-BASE SUPERALLOY</h4>
+        <p> All of our fixtures can also be fabricated to order using high temperature nickel-base superalloys. These
+            fixtures can be used at temperatures up to 1500°F (815°C), and in harsh environments.</p>
+    </div>
+
+</div>
+
+<div class="container">
+    <div ng-repeat="category in products.categories">
+        <p>{{category.name}}</p>
+        <a ng-repeat="product in category.fixtures"  ng-click="getProduct(category,product)"
+           ui-sref="product({category:category.name,productId:product.model})">{{product.name}}</a>
+    </div>
+</div>
