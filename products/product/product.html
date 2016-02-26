@@ -1,10 +1,10 @@
 <div class="container">
-    <span class="title">{{productInfo.name}}</span>
-    <span class="under-heading">Model No. {{productInfo.model}} ({{productInfo.material}})</span>
+    <p class="title">{{productInfo.name}}</p>
+    <p class="under-heading">Model No. {{productInfo.model}} ({{productInfo.material}})</p>
     <!--start repeat of figures for productInfo-->
     <div ng-repeat="figure in productInfo.figures">
         <!--start image repeat for figure-->
-        <div ng-repeat="img in figure.pics">
+        <div  class="col-xs-12 col-sm-6" ng-repeat="img in figure.pics">
             <img ng-src="{{img.source}}">
             <div>{{img.title}}</div>
         </div>

@@ -5,9 +5,16 @@ angular.module('WTF').directive('product', function () {
     return {
         templateUrl: 'products/product/product.html',
         restrict: 'E',
-        controller: 'productsCtrl',
+        controller: 'productCtrl',
+        transclude: true,
         scope: {
             productInfo:'='
-        }//link
+        }
+        //link:function(scope,element,attrs){
+        //    function ($stateParams,productService) {
+        //
+        //        return productService.getProduct($stateParams.category,$stateParams.productId);
+        //    }
+        //}
     };
 });

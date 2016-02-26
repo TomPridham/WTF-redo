@@ -10,71 +10,49 @@
             "material": "17-4PH stainless steel",
             "figures": [
               {
-                "1": {
-                  "fig": "1",
-                  "pics": [
-                    {
-                      "1": {
-                        "source": "public/images/productImages/D 5379/image001a",
-                        "title": "front-view"
-                      }
-                    },
-                    {
-                      "2": {
-                        "source": "public/images/productImages/D 5379/image001b",
-                        "title": "backview"
-                      }
-                    }
-                  ],
-                  "desc": "ASTM Standard D 5379 Iosipescu Shear Test Fixture, shown with Optional Adapter",
-                  "info": [
-                    {
-                      "1": "whatever"
-                    },
-                    {
-                      "2": "more stuff and junk"
-                    }
-                  ]
-                }
+                "fig": "1",
+                "pics": [
+                  {
+                    "source": "public/images/productImages/D5379/image001a.jpg",
+                    "title": "front-view"
+                  },
+                  {
+                    "source": "public/images/productImages/D5379/image001b.jpg",
+                    "title": "backview"
+                  }
+                ],
+                "desc": "ASTM Standard D 5379 Iosipescu Shear Test Fixture, shown with Optional Adapter",
+                "info": [
+                  "whatever",
+                  "more stuff and junk"
+                ]
               },
               {
                 "fig": "2",
                 "pics": [
                   {
-                    "1": {
-                      "source": "public/images/productImages/D 5379/image002",
-                      "title": ""
-                    }
+                    "source": "public/images/productImages/D5379/image002.jpg",
+                    "title": ""
                   }
                 ],
                 "desc": "ASTM Standard D 5379 Iosipescu Shear Test Fixture, shown with Optional Adapter",
                 "info": [
-                  {
-                    "1": "whatever"
-                  },
-                  {
-                    "2": "more stuff and junk blah blah"
-                  }
+                  "whatever",
+                  "more stuff and junk blah blah"
                 ]
               },
               {
                 "fig": "3",
                 "pics": [
                   {
-                    "1": {
-                      "source": "public/images/productImages/D 5379/image003",
-                      "title": ""
-                    }
+                    "source": "public/images/productImages/D5379/image003.jpg",
+                    "title": ""
                   }
                 ],
                 "desc": "Nickel Superalloy Iosipescu Shear Test Fixture for Use to 1500°F (815°C)",
                 "info": [
-                  {
-                    "1": "whatever"
-                  },
-                  {
-                    "2": "more stuff and junk blah blah"
-                  }
+                  "whatever",
+                  "more stuff and junk blah blah"
                 ]
               }
             ],

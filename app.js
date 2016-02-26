@@ -27,20 +27,18 @@ angular.module('WTF').config(function ($urlRouterProvider, $stateProvider) {
         .state('products', {
             url: '/products',
             templateUrl: 'products/productsView.html',
-            controller: 'productsCtrl',
+            controller: 'productsCtrl'
 
         })
         .state('product', {
             url: '/products/:category/:productId',
             template: '<product></product>',
-
-            resolve: {
-                productInfo: function ($stateParams,productService) {
-
-                    return productService.getProduct($stateParams.category,$stateParams.productId);
-                }
-
-            }
+            controller:'productCtrl'
+            //resolve: {
+            //    productInfo: function ($stateParams,productService) {
+            //        return productService.getProduct($stateParams.category,$stateParams.productId);
+            //    }
+            //}
         })
         .state('contact', {
             url: '/contact',
