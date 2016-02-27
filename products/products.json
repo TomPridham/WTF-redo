@@ -3,6 +3,7 @@
     "categories": {
       "shearloading": {
         "name": "Shear Loading",
+        "url":"shearloading",
         "fixtures": {
           "WTF-IO": {
             "name": "IOSIPESCU SHEAR TEST FIXTURE (ASTM D 5379)",

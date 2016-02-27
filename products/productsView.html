@@ -38,6 +38,6 @@
     <div ng-repeat="category in products.categories">
         <p>{{category.name}}</p>
         <a ng-repeat="product in category.fixtures"  ng-click="getProduct(category,product)"
-           ui-sref="product({category:category.name,productId:product.model})">{{product.name}}</a>
+           ui-sref="product({category:category.url,productId:product.model})">{{product.name}}</a>
     </div>
 </div>

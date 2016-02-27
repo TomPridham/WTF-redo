@@ -23,7 +23,7 @@ angular.module('WTF').service('productService', function ($q, $http) {
                 //console.log(productId)
                 //console.log(response)
 
-                var productInfo = response.data.products.categories[category.toLowerCase()].fixtures[productId];
+                var productInfo = response.data.products.categories[category].fixtures[productId];
                 //console.log(productInfo)
                 defer.resolve(productInfo);
             }
