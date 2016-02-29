@@ -14,11 +14,6 @@ angular.module('WTF').config(function ($urlRouterProvider, $stateProvider) {
             templateUrl: 'home/homeView.html',
             controller: 'homeCtrl'
         })
-        .state('about', {
-            url: '/about',
-            templateUrl: 'about/aboutView.html',
-            controller: 'aboutCtrl'
-        })
         .state('company', {
             url: '/company',
             templateUrl: 'company/companyView.html',

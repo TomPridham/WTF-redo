@@ -78,6 +78,9 @@ body {
 .yellow {
     color: #FFD100;
 }
+.brown{
+    color: #673423
+}
 
 .border {
     border-right: solid 2px;
@@ -109,10 +112,39 @@ body {
 
 .text-box {
     align-items: center;
-
     margin-right: auto;
     margin-left: auto;
     width: 800px;
+}
+
+.employee{
+    padding:30px;
+    height:250px;
+}
+.employee > img{
+    height:90%;
+}
+a:link {
+    text-decoration: none;
+    color: default;
+
+}
+
+a:visited {
+    text-decoration: none;
+    color: default;
+
+}
+
+a:hover {
+    text-decoration: none;
+    color: default;
+
+}
+
+a:active {
+    text-decoration: none;
+    color: default;
 }
 
 @media (max-device-width: 600px) {
