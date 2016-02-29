@@ -10,11 +10,5 @@ angular.module('WTF').directive('product', function () {
         scope: {
             productInfo:'='
         }
-        //link:function(scope,element,attrs){
-        //    function ($stateParams,productService) {
-        //
-        //        return productService.getProduct($stateParams.category,$stateParams.productId);
-        //    }
-        //}
     };
 });

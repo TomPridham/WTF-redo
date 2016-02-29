@@ -3,11 +3,15 @@
  */
 angular.module('WTF').controller('productCtrl', function ($scope, productService, $stateParams) {
 
-
+    //gets product for productDirective
     productService.getProduct($stateParams.category, $stateParams.productId).then(function (response) {
         $scope.productInfo = response;
-        console.log($scope.productInfo)
-    })
+    });
+
+    //gets number of images in collection for imageDirective
+    this.getCols = function (images) {
+       return $scope.cols = images.length;
+    };
 
 
 });

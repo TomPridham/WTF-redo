@@ -34,11 +34,6 @@ angular.module('WTF').config(function ($urlRouterProvider, $stateProvider) {
             url: '/products/:category/:productId',
             template: '<product></product>',
             controller:'productCtrl'
-            //resolve: {
-            //    productInfo: function ($stateParams,productService) {
-            //        return productService.getProduct($stateParams.category,$stateParams.productId);
-            //    }
-            //}
         })
         .state('contact', {
             url: '/contact',

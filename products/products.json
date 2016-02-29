@@ -3,7 +3,7 @@
     "categories": {
       "shearloading": {
         "name": "Shear Loading",
-        "url":"shearloading",
+        "url": "shearloading",
         "fixtures": {
           "WTF-IO": {
             "name": "IOSIPESCU SHEAR TEST FIXTURE (ASTM D 5379)",
@@ -24,8 +24,10 @@
                 ],
                 "desc": "ASTM Standard D 5379 Iosipescu Shear Test Fixture, shown with Optional Adapter",
                 "info": [
-                  "whatever",
-                  "more stuff and junk"
+                  "The Iosipescu shear test fixture was actively developed for use with composite materials during the late 1970s and early 1980s by the Composite Materials Research Group at the University of Wyoming.  A large number of fixtures have been provided to research groups around the world since that time and the test method is now in widespread use. ASTM Standard D 5379 governing the test method was first issued in 1993 (Reference 1). General testing procedures are provided in that standard. In addition, considerable additional discussion of results typically obtained is contained in the references listed here.",
+                  "The standard test specimen (as shown installed in the front view photograph of Fig. 1) is 3\" long, 0.75\" wide, and of any thickness up to 0.50\". Typically, a specimen on the order of 0.1\" thick is used. The fixture will also accommodate shorter and narrower specimens, if desired.  A 90° notch is machined into each edge of the specimen, and a strain gage can be mounted on the specimen surface in the notched region to monitor shear strain. Either a standard ±45° biaxial gage or a special Iosipescu gage is commonly used. The small diameter rod projecting out of the fixture below the lower notch in the specimen (front view photograph in Fig. 1) is lifted up with a finger while installing a test specimen, to center the specimen left to right. The specimen is pushed up against the flat back of the fixture to locate it fore and aft. The tapered wedges are not intended to be clamps; they are adjusted with finger knobs to accommodate specimens of slightly varying widths. Wedges of alternate thickness can be provided to accommodate specimens outside this small range of thickness variation.",
+                  "The moving half of the fixture incorporates a linear ball bushing (see rear view photograph in Fig. 1) that moves on a hardened steel vertical post mounted in the base of the fixture. This ball bearing eliminates guidepost binding and minimizes frictional resistance. The closeness of fit of the bearing can be adjusted via the screw and locking nut visible on the backside of the moving half of the fixture.",
+                  "In use, the fixture rests unconstrained directly on the base of the testing machine. A standard 1.25\" diameter stud with lock ring and 0.50\" diameter cross-pin hole, threaded into the moving half of the fixture, is provided with the fixture, as shown on the standard-size fixture in Fig. 2. Any special adapter required to attach this stud to the particular testing machine being used, such as the standard Instron Type Df adapter shown in Fig. 1, can be provided as an option at nominal additional cost. The adapter is pinned to the stud and secured via the lock ring provided with the fixture."
                 ]
               },
               {
@@ -33,13 +35,12 @@
                 "pics": [
                   {
                     "source": "public/images/productImages/D5379/image002.jpg",
-                    "title": ""
+                    "title": " "
                   }
                 ],
-                "desc": "ASTM Standard D 5379 Iosipescu Shear Test Fixture, shown with Optional Adapter",
+                "desc": "Quarter-Scale Iosipescu Shear Fixture (left) and Standard Fixture (right)",
                 "info": [
-                  "whatever",
-                  "more stuff and junk blah blah"
+                  "An example of a special fixture is shown in Fig. 2. The small fixture on the left is essentially a one-quarter scale model of the standard fixture, designed to test a specimen only 20mm long, 5mm wide, and up to 5mm thick. A standard-size fixture is shown on the right for comparison. Special larger-than-standard fixtures have also been fabricated for customers."
                 ]
               },
               {
@@ -52,8 +53,7 @@
                 ],
                 "desc": "Nickel Superalloy Iosipescu Shear Test Fixture for Use to 1500°F (815°C)",
                 "info": [
-                  "whatever",
-                  "more stuff and junk blah blah"
+                  "Figure 3 shows a special fixture designed for high temperature testing. This fixture is fabricated of a nickel superalloy, for use at temperatures up to 1500ºF (815 ºC). Since ball bushings capable of operating at these high temperatures are not available, the right half of the fixture moves on a large diameter, close-fitting alignment post. Also, since this fixture is normally used in a high temperature furnace, the base of the fixture contains a threaded hole (barely visible) for attachment to a support column, and a threaded stud is provided at the top for attachment."
                 ]
               }
             ],
@@ -63,6 +63,21 @@
               },
               {
                 "2": "N. Iosipescu, \"New Accurate Procedure for Single Shear Testing of Metals,\" Journal of Materials, Vol. 2, No. 3, September 1967, pp. 537-566."
+              },
+              {
+                "3": "D.E. Walrath and D.F. Adams, \"The Iosipescu Shear Test as Applied to Composite Materials,\" Experimental Mechanics, Vol. 23, No. 1, March 1983, pp. 105-110."
+              },
+              {
+                "4": "D.F. Adams and D.E. Walrath, \"Current Status of the Iosipescu Shear Test Method,\" Journal of Composite Materials, Vol. 21, June 1987, pp. 484-505."
+              },
+              {
+                "5": "D.F. Adams and D.E. Walrath, \"Further Development of the Iosipescu Shear Test Method,\" Experimental Mechanics, Vol. 27, No. 2, June 1987, pp. 113-119."
+              },
+              {
+                "6": "D.F. Adams, \"The Iosipescu Shear Test Method as Used for Testing Polymers and Composite Materials,\" Polymer Composites, Vol. 11, No. 5, October 1990, pp. 286-290."
+              },
+              {
+                "7": "D.F. Adams and E.Q. Lewis, \"Experimental Strain Analysis of the Iosipescu Shear Test Specimen,\" Experimental Mechanics, Vol. 35, No. 4, December 1995, pp. 352-360."
               }
             ]
           },
@@ -75,14 +90,313 @@
                 "fig": "1",
                 "pics": [
                   {
-                    "source": "public/images/productImages/D5379/image001a.jpg",
-                    "title": "V-Notched Rail Shear Test Fixture shown, with a standard V-Notched Specimen (top center)"
+                    "source": "public/images/productImages/D7078/image001.jpg",
+                    "title": ""
                   }
                 ],
-                "desc": "",
+                "desc": "V-Notched Rail Shear Test Fixture shown, with a standard V-Notched Specimen (top center)",
+                "info": []
+              },
+              {
+                "fig": "2",
+                "pics": [
+                  {
+                    "source": "public/images/productImages/D7078/image002.jpg",
+                    "title": ""
+                  }
+                ],
+                "desc": "V-Notched Rail Shear Test Fixture  (ASTM D 7078)",
                 "info": [
-                  "whatever",
-                  "more stuff and junk"
+                  "The ASTM D 7078 standard V-Notched Rail Shear specimen is 3\" long (the same as the standard Iosipescu specimen), but 2.20\" wide (versus 0.75\" for the standard Iosipescu specimen), resulting in a much larger gage section between the notches (1.20\" wide versus 0.45\"). The specimen notch depth-to-width ratio of 0.227 is similar to the 0.200 ratio for the standard Iosipescu specimen, thus preserving the gage section geometry.",
+                  "One inch of each end of the specimen is gripped by the fixture. That is, the specimen is gripped up to the notches, resulting in 1\" of specimen being exposed between the grips. The fixture is supplied with a standard 1.25\" diameter stud with 0.50\" diameter cross-pin hole (Instron Type Dm) and lock ring threaded into each half of the fixture. Optional adapters can be supplied if required to mate with the customer’s testing machine.",
+                  "A cutout is shown in the lower grip assembly (at the left) in both Figs. 1 and 2. This permits installing a specimen without having to remove the fixture from the testing machine, which is sometimes desirable, e.g., when performing elevated temperature or cryogenic tests."
+                ]
+              },
+              {
+                "fig": "3",
+                "pics": [
+                  {
+                    "source": "public/images/productImages/D7078/image003.jpg",
+                    "title": ""
+                  }
+                ],
+                "desc": "View of the Assembled Test Fixture",
+                "info": [
+                ]
+              },
+              {
+                "fig": "4",
+                "pics": [
+                  {
+                    "source": "public/images/productImages/D7078/image004.jpg",
+                    "title": ""
+                  }
+                ],
+                "desc": "Special Adjustable-Gage-Section-Width Test Fixture for Testing Specimens of Variable (Increased) Gage Width",
+                "info": [
+                  "Special configuration fixtures can also be designed and fabricated.  Figure 4 shows a specially designed adjustable gage-section-width fixture. Nonadjustable fixtures for non-standard (fixed) gage section widths can also be fabricated."
+                ]
+              },
+              {
+                "fig": "5",
+                "pics": [
+                  {
+                    "source": "public/images/productImages/D7078/image005a.jpg",
+                    "title": "Specimen Aligned in Fixture Half"
+                  },
+                  {
+                    "source": "public/images/productImages/D7078/image005b.jpg",
+                    "title": "Completion of Specimen Installation"
+                  }
+                ],
+                "desc": "Use of the Specimen Installation Alignment Jigs",
+                "info": [
+                  "A pair of specimen installation jigs are provided with each fixture, as indicated in the two photographs of Fig. 5. (These jigs are also shown at the extreme left in Fig. 1.)  These jigs are used to aid in centering the specimen notches between the rails while aligning it, and have been found to be very useful by users of this test fixture.  After specimen installation, the jigs are removed."
+                ]
+              },
+              {
+                "fig": "6",
+                "pics": [
+                  {
+                    "source": "public/images/productImages/D7078/image006.jpg",
+                    "title": ""
+                  }
+                ],
+                "desc": "Combined Loading Shear Test Fixture (left) shown with the Standard V-Notched Rail Shear Test Fixture (right)",
+                "info": [
+                  "Although the V-Notched Rail Shear test fixture is capable of applying much higher specimen loadings than the Iosipescu Shear test fixture, there are situations where even higher applied loadings are desired.  As one approach, the Combined Load Shear test fixture shown in Fig. 6 has been developed.",
+                  "The opening in the fixture to accommodate the specimen is exactly the same height as the specimen width itself (2.20\"), so that when the specimen is loaded and attempts to slip and thus rotate in the fixture, the edges of the specimen will become loaded, just as for the standard Iosipescu shear test specimen.  That is, a combined edge and face loading of the specimen is achieved, i.e., Combined Loading Shear (CLS).  Note also that the fixture body is much heavier, and four larger diameter screws are used on each side compared to the three screws in the standard fixture.",
+                  "The disadvantage of this fixture design is that the specimen width must be machined accurately so that there will be a close fit between it and the fixture opening.  Thus, as an alternative, an Adjustable Combined Loading V-Notched Rail Shear test fixture has been developed.  This fixture is shown in comparison to the standard V-Notched Rail shear fixture in Fig 7."
+                ]
+              },
+              {
+                "fig": "7",
+                "pics": [
+                  {
+                    "source": "public/images/productImages/D7078/image007.jpg",
+                    "title": ""
+                  }
+                ],
+                "desc": "Adjustable Combined Loading Shear (CLS) Test Fixture (left) shown with the Standard V-Notched Rail Shear Test Fixture (right)",
+                "info": []
+              },
+              {
+                "fig": "8",
+                "pics": [
+                  {
+                    "source": "public/images/productImages/D7078/image008.jpg",
+                    "title": ""
+                  }
+                ],
+                "desc": "Adjustable Combined Loading Shear (CLS)Test Fixtures with one half shown disassembled at the left.",
+                "info": [
+                  "The CLS fixture is shown partially disassembled in Fig. 8.  A flat plate contacts the edge of the specimen, being held against the specimen by a screw.  This screw can be used to adjust for the width of the specimen, or to actually apply a preload to the specimen edges."
+                ]
+              }
+            ],
+            "sources": [
+              {
+                "1": "ASTM Standard D7078-05 (2005), \"Standard Test Method for Shear Properties of Composite Materials by the V-Notched Rail Shear Method,\" American Society for Testing and Materials, West Conshohocken, Pennsylvania (first published in April 2005)."
+              },
+              {
+                "2": "Adams, D. O., Moriarty, J. M., Gallegos, A. M., and Adams, D. F., \"Development and Evaluation of the V-Notched Rail Shear Test for Composite Laminates,\" Federal Aviation Administration Report DOT/FAA/AR-03/63, FAA Office of Aviation Research, Washington, D.C., September, 2003."
+              },
+              {
+                "3": "Hussain, A. K. and Adams, D. F., \"An Analytical and Experimental Evaluation of the Two-Rail Shear Test for Composite Materials,\" University of Wyoming Composite Materials Research Group Report UW-CMRG-R-98-105, February 1998."
+              },
+              {
+                "4": "Adams, D. O., Moriarty, J. M., Gallegos, A. M., and Adams, D. F., \"The V-Notched Rail Shear Test,\" Journal of Composite Materials, Vol. 41, No. 3, February 2007, pp. 281-297."
+              },
+              {
+                "5": "5) Adams, D.O., Gallegos, A.M, Moriarty, J.M., and Adams, D.F., \"A V-Notched Rail Shear Test for Composite Laminates,\" Proceedings of the 2002 SEM Annual Conference, Milwaukee, WI, June 2002."
+              },
+              {
+                "6": "Adams, D.O., Moriarty, J.M., Gallegos, A.M., and Adams, D.F., \"Development and Evaluation of a  V-Notched Rail Shear Test\", Proceedings of the 2002 SAMPE Technical Conference, Baltimore, MD, November 2002."
+              },
+              {
+                "7": "Hussain, A.K., and Adams, D.F., \"The Wyoming-Modified Two-Rail Shear Test Fixture for Composite Materials,\" Journal of Composites Technology and Research, Vol. 21, No. 4, October 1999, pp. 215-223."
+              },
+              {
+                "8": "Hussain, A.K., and Adams, D.F., \"Experimental Evaluation of the Wyoming-Modified Two-Rail Shear Test Method for Composite Materials,\" Experimental Mechanics, Vol. 44, No. 4, August 2004, pp. 354-364."
+              },
+              {
+                "9": "Hussain, A.K., and Adams, D.F., \"Analytical Evaluation of the Two-Rail Shear Test Method for Composite Materials,\" Composites Science and Technology, Vol. 64, 2004, pp. 221-238."
+              }
+            ]
+          }
+        }
+      },
+      "compressionloading": {
+        "name": "Compression Loading",
+        "url": "compressionloading",
+        "fixtures": {
+          "WTF-EL": {
+            "name": "WYOMING COMBINED LOADING COMPRESSION TEST FIXTURE (ASTM D 6641)",
+            "model": "WTF-EL",
+            "material": "17-4PH stainless steel",
+            "figures": [
+              {
+                "fig": "1",
+                "pics": [
+                  {
+                    "source": "public/images/productImages/D6641/image001.jpg",
+                    "title": ""
+                  }
+                ],
+                "desc": "Assembled Wyoming Combined Loading Compression Test Fixture, with Specimen Installed",
+                "info": [
+                  "The Wyoming Combined Loading Compression (CLC) Test Fixture, originally developed at the University of Wyoming (References 1 through 3), became ASTM Standard D 6641 in 2001 (Reference 4).",
+                  "The CLC fixture consists of two pairs of steel blocks, each pair being clamped together with four bolts, as indicated in Fig. 1. When installed, the ends of the 5.5\" long specimen are flush with the ends of the blocks. The 1.2\" wide gripping surfaces of the blocks are intended for testing specimens up to nominally 1\" wide."
+                ]
+              },
+              {
+                "fig": "2",
+                "pics": [
+                  {
+                    "source": "public/images/productImages/D6641/image002.jpg",
+                    "title": ""
+                  }
+                ],
+                "desc": "Partially Disassembled Fixture Showing the Tungsten Carbide Particle-Coated Gripping Surfaces",
+                "info": [
+                  "These gripping surfaces are coated with tungsten carbide particles, as shown in Fig. 2,  to enhance the frictional force and thus permit higher shear load transfer into the specimen.  And since these surfaces are relatively smooth (100 grit particles), they do not damage the surface of the specimen. This permits the use of untabbed specimens in many applications, a major advantage in terms of specimen fabrication cost.",
+                  "By adjusting the bolt torque, the ratio of end- to shear-loading of the specimen can be controlled, i.e., combined loading can be achieved. This permits the successful testing of stronger materials than if the specimen was purely end-loaded (by avoiding end crushing), and less clamping force than if the specimen was purely shear-loaded (lower clamping-induced stress concentrations).",
+                  "The fixture blocks also prevent gross buckling of the specimen. Two alignment rods in linear bearings are used to keep the upper and lower pairs of blocks aligned, the linear bearings eliminating frictional binding of the alignment rods. The circular recess shown in one face provides clearance for an edge-mounted extensometer, if used. Alternatively, bonded strain gages can be used on one or both faces of the specimen.",
+                  "The assembled fixture, with a specimen installed, is placed unconstrained on a flat base of the testing machine, and loaded directly on its top face by a flat platen mounted in the crosshead of the testing machine.",
+                  "The Wyoming Combined Loading Compression (CLC) Test Fixture is designed to accommodate tabbed or untabbed specimens 5.5\" long.  This is the same length as commonly used with the IITRI tabbed specimen test method (ASTM D 3410). The gage length (the distance between the restraining end blocks), at 0.50\" is also the same. The CLC fixture can be used to test nonstandard gage length specimens by simply altering the specimen total length.  This fixture is relatively compact, weighing 10.6 lb.",
+                  "The CLC test method has been shown to be totally suitable for compression testing untabbed specimens of materials of moderate strengths, e.g., composites exhibiting compressive strengths up to about 150 ksi, which includes cross-ply and quasi-isotropic lay-up laminates, fabric composites, random chopped-fiber composites, and other materials of similar or lower strength.  In such cases the CLC test fixture has been shown to produce compressive strength and modulus values fully equivalent to those obtained using tabbed specimens and more complex and expensive test fixtures such as the IITRI, Wyoming Modified IITRI, Celanese, and Wyoming Modified Celanese configurations (References 1 through 3).",
+                  "For higher compressive strength, highly orthotropic materials such as unidirectional carbon- or glass-fiber reinforced polymer-matrix composites, a tabbed specimen can be used, just as with the Modified ASTM D 695 Compression Test Method, a pure end-loading method, or the IITRI Test Method (ASTM D 3410), a pure shear-loading method. However, this does negate the simplification and cost savings associated with the use of an untabbed specimen. A viable option is to use an untabbed, thickness-tapered specimen when testing these highly orthotropic composites (References 5 and 6)."
+                ]
+              },
+              {
+                "fig": "3",
+                "pics": [
+                  {
+                    "source": "public/images/productImages/D6641/image003.jpg",
+                    "title": ""
+                  }
+                ],
+                "desc": "ASTM D 6641 Standard Fixture (left) and Special 2.5” Specimen Width Fixture (right)",
+                "info": [
+                  "Non-standard fixtures can also be designed and fabricated. For example, Fig. 3 compares the standard fixture (left) with a fixture designed to accommodate specimens of the same 5.5\" length but up to 2.5\" wide."
+                ]
+              },
+              {
+                "fig": "4",
+                "pics": [
+                  {
+                    "source": "public/images/productImages/D6641/image004.jpg",
+                    "title": ""
+                  }
+                ],
+                "desc": "Special Reduced-Size Fixture shown (disassembled) in the Foreground, with a Standard Fixture in the Background",
+                "info": [
+                  "Fig. 4 shows a reduced-size fixture, designed to test specimens only 2.5”\" long and up to 0.5\" wide, with a standard fixture in the background for comparison."
+                ]
+              },
+              {
+                "fig": "5",
+                "pics": [
+                  {
+                    "source": "public/images/productImages/D6641/image005.jpg",
+                    "title": ""
+                  }
+                ],
+                "desc": "Three Different Size Combined Loading Compression Test Fixtures, the ASTM D 6641 Standard Size Fixture being Shown in the Center.",
+                "info": [
+                  "Three different size CLC fixtures are shown in Fig. 5, as examples of size variations sometimes used.  We have designed and fabricated even larger and smaller CLC fixtures."
+                ]
+              },
+              {
+                "fig": "6",
+                "pics": [
+                  {
+                    "source": "public/images/productImages/D6641/image006.jpg",
+                    "title": ""
+                  }
+                ],
+                "desc": "A Special Combined Loading Compression (CLC) Test Fixture with Four Alignment rods is Shown at the Left.  A Standard Fixture is Shown at the Right.",
+                "info": [
+                  "A special CLC fixture, with four alignment rods and linear bearings, is shown partially disassembled at the left of Fig. 6.  A partially disassembled standard fixture is shown at the right.  With increasing interest in the use of Digital Image Correlation (DIC) techinques to obtain full-field displacements of the surface of the test specimen, it is necessary for the instrumentation to be able to view the face of the test specimen.  The two alignment rods of the standard fixture block this view.  By using four alignment rods, a line of sight is available between the pairs of rods, while maintaining the fixture symmetry."
+                ]
+              },
+              {
+                "fig": "7",
+                "pics": [
+                  {
+                    "source": "public/images/productImages/D6641/image007.jpg",
+                    "title": ""
+                  }
+                ],
+                "desc": "The Special Four-Alignment Rod CLC Fixture is Shown Completely Disassembled in the Foreground.  An Assembled Fixture and a Standard Fixture are Shown in the background.",
+                "info": [
+                  "Another view of the special fixture with four alignment rods of Fig. 6 is shown fully disassembled in the forground of Fig. 7, along with the spacer strips and a pusher strip for installing 1/2\" and 1\" wide specimens.  A completely assembled fixture is shown in the background along with a standard fixture.  This special fixture weighs 20 lb, approximately twice that of the standard fixture, and can accommodate specimens up to 2.5\" wide, if desired.  The clear space between alignment rods is slightly more than 1.2\"."
+                ]
+              },
+              {
+                "fig": "8",
+                "pics": [
+                  {
+                    "source": "public/images/productImages/D6641/image008.jpg",
+                    "title": ""
+                  }
+                ],
+                "desc": "Example of a Well-Used Standard Size ASTM D 6641 Combined Loading Compression Test Fixture. The Wear Pattern of the Tungsten Carbide Particle Grip Surfaces Caused by a 1/2\" Wide Specimen can be Seen, with Excessive Wear at the Ends Near the Specimen Gage Section.",
+                "info": [
+                  "The tungsten carbide particle grip surfaces of any of the above fixtures will eventually show wear after long term use (typically many hundreds of specimen tests), and may have to be recoated.  As wear progresses, higher and higher bolt torques will be required to achieve equivalent results.   An extreme example of surface wear is shown in Fig. 8.   Normally use of the fixture is not continued to this point. The original coating can be ground off and the fixture recoated, restoring the fixture to its original condition."
+                ]
+              }
+            ],
+            "sources": [
+              {
+                "1": "D.F. Adams and J.S. Welsh, \"The Wyoming Combined Loading Compression (CLC) Test Method,\" Journal of Composites Technology and Research, Vol. 19, No. 3, 1997, pp. 123-133."
+              },
+              {
+                "2": "P.M. Wegner and D.F. Adams, \"Verification of the Combined Load Compression (CLC) Test Method,\" Report No. DOT/FAA/AR-00/26, Federal Aviation Administration Technical Center, Atlantic City, New Jersey, August 2000."
+              },
+              {
+                "3": "J.S. Welsh and D.F. Adams, \"Current Status of Compression Test Methods for Composite Materials,\" SAMPE Journal, Vol. 33, No. 1, January 1997, pp. 35-43."
+              },
+              {
+                "4": "ASTM Standard D 6641-09 (2009), \"Test Method for Determining the Compressive Properties of Polymer Matrix Composite Laminates Using a Combined Loading Compression (CLC) Test Fixture,\" American Society for Testing and Materials, West Conshohocken, Pennsylvania (first issued in 2001)."
+              },
+              {
+                "5": "D.F. Adams and G.A. Finley, \"Experimental Study of Thickness-Tapered Unidirectional Composite Compression Specimens,\" Experimental Mechanics, Vol 36, No. 4, December 1996, pp. 348-355."
+              },
+              {
+                "6": "S.L. Coguill and D.F. Adams, \"Use of the Wyoming Combined Loading Compression (CLC) Fixture to Test Unidirectional Composites,\" Proceedings of the 44th International SAMPE Symposium, Long Beach, California, May 1999, pp. 2322-2331."
+              }
+            ]
+          }
+        }
+      },
+      "specialcompression": {
+        "name": "Specialty Compression Test Fixtures",
+        "url": "specialcompression",
+        "fixtures": {
+          "WTF-IO": {
+            "name": "IOSIPESCU SHEAR TEST FIXTURE (ASTM D 5379)",
+            "model": "WTF-IO",
+            "material": "17-4PH stainless steel",
+            "figures": [
+              {
+                "fig": "1",
+                "pics": [
+                  {
+                    "source": "public/images/productImages/D5379/image001a.jpg",
+                    "title": "front-view"
+                  },
+                  {
+                    "source": "public/images/productImages/D5379/image001b.jpg",
+                    "title": "backview"
+                  }
+                ],
+                "desc": "ASTM Standard D 5379 Iosipescu Shear Test Fixture, shown with Optional Adapter",
+                "info": [
+                  "The Iosipescu shear test fixture was actively developed for use with composite materials during the late 1970s and early 1980s by the Composite Materials Research Group at the University of Wyoming.  A large number of fixtures have been provided to research groups around the world since that time and the test method is now in widespread use. ASTM Standard D 5379 governing the test method was first issued in 1993 (Reference 1). General testing procedures are provided in that standard. In addition, considerable additional discussion of results typically obtained is contained in the references listed here.",
+                  "The standard test specimen (as shown installed in the front view photograph of Fig. 1) is 3\" long, 0.75\" wide, and of any thickness up to 0.50\". Typically, a specimen on the order of 0.1\" thick is used. The fixture will also accommodate shorter and narrower specimens, if desired.  A 90° notch is machined into each edge of the specimen, and a strain gage can be mounted on the specimen surface in the notched region to monitor shear strain. Either a standard ±45° biaxial gage or a special Iosipescu gage is commonly used. The small diameter rod projecting out of the fixture below the lower notch in the specimen (front view photograph in Fig. 1) is lifted up with a finger while installing a test specimen, to center the specimen left to right. The specimen is pushed up against the flat back of the fixture to locate it fore and aft. The tapered wedges are not intended to be clamps; they are adjusted with finger knobs to accommodate specimens of slightly varying widths. Wedges of alternate thickness can be provided to accommodate specimens outside this small range of thickness variation.",
+                  "The moving half of the fixture incorporates a linear ball bushing (see rear view photograph in Fig. 1) that moves on a hardened steel vertical post mounted in the base of the fixture. This ball bearing eliminates guidepost binding and minimizes frictional resistance. The closeness of fit of the bearing can be adjusted via the screw and locking nut visible on the backside of the moving half of the fixture.",
+                  "In use, the fixture rests unconstrained directly on the base of the testing machine. A standard 1.25\" diameter stud with lock ring and 0.50\" diameter cross-pin hole, threaded into the moving half of the fixture, is provided with the fixture, as shown on the standard-size fixture in Fig. 2. Any special adapter required to attach this stud to the particular testing machine being used, such as the standard Instron Type Df adapter shown in Fig. 1, can be provided as an option at nominal additional cost. The adapter is pinned to the stud and secured via the lock ring provided with the fixture."
                 ]
               },
               {
@@ -90,13 +404,12 @@
                 "pics": [
                   {
                     "source": "public/images/productImages/D5379/image002.jpg",
-                    "title": ""
+                    "title": " "
                   }
                 ],
-                "desc": "ASTM Standard D 5379 Iosipescu Shear Test Fixture, shown with Optional Adapter",
+                "desc": "Quarter-Scale Iosipescu Shear Fixture (left) and Standard Fixture (right)",
                 "info": [
-                  "whatever",
-                  "more stuff and junk blah blah"
+                  "An example of a special fixture is shown in Fig. 2. The small fixture on the left is essentially a one-quarter scale model of the standard fixture, designed to test a specimen only 20mm long, 5mm wide, and up to 5mm thick. A standard-size fixture is shown on the right for comparison. Special larger-than-standard fixtures have also been fabricated for customers."
                 ]
               },
               {
@@ -104,13 +417,12 @@
                 "pics": [
                   {
                     "source": "public/images/productImages/D5379/image003.jpg",
-                    "title": ""
+                    "title": " "
                   }
                 ],
                 "desc": "Nickel Superalloy Iosipescu Shear Test Fixture for Use to 1500°F (815°C)",
                 "info": [
-                  "whatever",
-                  "more stuff and junk blah blah"
+                  "Figure 3 shows a special fixture designed for high temperature testing. This fixture is fabricated of a nickel superalloy, for use at temperatures up to 1500ºF (815 ºC). Since ball bushings capable of operating at these high temperatures are not available, the right half of the fixture moves on a large diameter, close-fitting alignment post. Also, since this fixture is normally used in a high temperature furnace, the base of the fixture contains a threaded hole (barely visible) for attachment to a support column, and a threaded stud is provided at the top for attachment."
                 ]
               }
             ],
@@ -120,15 +432,680 @@
               },
               {
                 "2": "N. Iosipescu, \"New Accurate Procedure for Single Shear Testing of Metals,\" Journal of Materials, Vol. 2, No. 3, September 1967, pp. 537-566."
+              },
+              {
+                "3": "D.E. Walrath and D.F. Adams, \"The Iosipescu Shear Test as Applied to Composite Materials,\" Experimental Mechanics, Vol. 23, No. 1, March 1983, pp. 105-110."
+              },
+              {
+                "3": "D.F. Adams and D.E. Walrath, \"Current Status of the Iosipescu Shear Test Method,\" Journal of Composite Materials, Vol. 21, June 1987, pp. 484-505."
+              },
+              {
+                "3": "D.F. Adams and D.E. Walrath, \"Further Development of the Iosipescu Shear Test Method,\" Experimental Mechanics, Vol. 27, No. 2, June 1987, pp. 113-119."
+              },
+              {
+                "3": "D.F. Adams, \"The Iosipescu Shear Test Method as Used for Testing Polymers and Composite Materials,\" Polymer Composites, Vol. 11, No. 5, October 1990, pp. 286-290."
+              },
+              {
+                "3": "D.F. Adams and E.Q. Lewis, \"Experimental Strain Analysis of the Iosipescu Shear Test Specimen,\" Experimental Mechanics, Vol. 35, No. 4, December 1995, pp. 352-360."
               }
             ]
           }
         }
       },
-      "compressionloading": {
-        "name": "Compression Loading",
+      "flexuralloading": {
+        "name": "Flexural Loading",
+        "url": "flexuralloading",
         "fixtures": {
-          "D-6641": {}
+          "WTF-IO": {
+            "name": "IOSIPESCU SHEAR TEST FIXTURE (ASTM D 5379)",
+            "model": "WTF-IO",
+            "material": "17-4PH stainless steel",
+            "figures": [
+              {
+                "fig": "1",
+                "pics": [
+                  {
+                    "source": "public/images/productImages/D5379/image001a.jpg",
+                    "title": "front-view"
+                  },
+                  {
+                    "source": "public/images/productImages/D5379/image001b.jpg",
+                    "title": "backview"
+                  }
+                ],
+                "desc": "ASTM Standard D 5379 Iosipescu Shear Test Fixture, shown with Optional Adapter",
+                "info": [
+                  "The Iosipescu shear test fixture was actively developed for use with composite materials during the late 1970s and early 1980s by the Composite Materials Research Group at the University of Wyoming.  A large number of fixtures have been provided to research groups around the world since that time and the test method is now in widespread use. ASTM Standard D 5379 governing the test method was first issued in 1993 (Reference 1). General testing procedures are provided in that standard. In addition, considerable additional discussion of results typically obtained is contained in the references listed here.",
+                  "The standard test specimen (as shown installed in the front view photograph of Fig. 1) is 3\" long, 0.75\" wide, and of any thickness up to 0.50\". Typically, a specimen on the order of 0.1\" thick is used. The fixture will also accommodate shorter and narrower specimens, if desired.  A 90° notch is machined into each edge of the specimen, and a strain gage can be mounted on the specimen surface in the notched region to monitor shear strain. Either a standard ±45° biaxial gage or a special Iosipescu gage is commonly used. The small diameter rod projecting out of the fixture below the lower notch in the specimen (front view photograph in Fig. 1) is lifted up with a finger while installing a test specimen, to center the specimen left to right. The specimen is pushed up against the flat back of the fixture to locate it fore and aft. The tapered wedges are not intended to be clamps; they are adjusted with finger knobs to accommodate specimens of slightly varying widths. Wedges of alternate thickness can be provided to accommodate specimens outside this small range of thickness variation.",
+                  "The moving half of the fixture incorporates a linear ball bushing (see rear view photograph in Fig. 1) that moves on a hardened steel vertical post mounted in the base of the fixture. This ball bearing eliminates guidepost binding and minimizes frictional resistance. The closeness of fit of the bearing can be adjusted via the screw and locking nut visible on the backside of the moving half of the fixture.",
+                  "In use, the fixture rests unconstrained directly on the base of the testing machine. A standard 1.25\" diameter stud with lock ring and 0.50\" diameter cross-pin hole, threaded into the moving half of the fixture, is provided with the fixture, as shown on the standard-size fixture in Fig. 2. Any special adapter required to attach this stud to the particular testing machine being used, such as the standard Instron Type Df adapter shown in Fig. 1, can be provided as an option at nominal additional cost. The adapter is pinned to the stud and secured via the lock ring provided with the fixture."
+                ]
+              },
+              {
+                "fig": "2",
+                "pics": [
+                  {
+                    "source": "public/images/productImages/D5379/image002.jpg",
+                    "title": " "
+                  }
+                ],
+                "desc": "Quarter-Scale Iosipescu Shear Fixture (left) and Standard Fixture (right)",
+                "info": [
+                  "An example of a special fixture is shown in Fig. 2. The small fixture on the left is essentially a one-quarter scale model of the standard fixture, designed to test a specimen only 20mm long, 5mm wide, and up to 5mm thick. A standard-size fixture is shown on the right for comparison. Special larger-than-standard fixtures have also been fabricated for customers."
+                ]
+              },
+              {
+                "fig": "3",
+                "pics": [
+                  {
+                    "source": "public/images/productImages/D5379/image003.jpg",
+                    "title": " "
+                  }
+                ],
+                "desc": "Nickel Superalloy Iosipescu Shear Test Fixture for Use to 1500°F (815°C)",
+                "info": [
+                  "Figure 3 shows a special fixture designed for high temperature testing. This fixture is fabricated of a nickel superalloy, for use at temperatures up to 1500ºF (815 ºC). Since ball bushings capable of operating at these high temperatures are not available, the right half of the fixture moves on a large diameter, close-fitting alignment post. Also, since this fixture is normally used in a high temperature furnace, the base of the fixture contains a threaded hole (barely visible) for attachment to a support column, and a threaded stud is provided at the top for attachment."
+                ]
+              }
+            ],
+            "sources": [
+              {
+                "1": "ASTM Standard D5379-12, \"Standard Test Method for Shear Properties of Composite Materials by the V-Notched Beam Method,\" American Society for Testing and Materials, West Conshohocken, Pennsylvania (first published in May 1993)."
+              },
+              {
+                "2": "N. Iosipescu, \"New Accurate Procedure for Single Shear Testing of Metals,\" Journal of Materials, Vol. 2, No. 3, September 1967, pp. 537-566."
+              },
+              {
+                "3": "D.E. Walrath and D.F. Adams, \"The Iosipescu Shear Test as Applied to Composite Materials,\" Experimental Mechanics, Vol. 23, No. 1, March 1983, pp. 105-110."
+              },
+              {
+                "3": "D.F. Adams and D.E. Walrath, \"Current Status of the Iosipescu Shear Test Method,\" Journal of Composite Materials, Vol. 21, June 1987, pp. 484-505."
+              },
+              {
+                "3": "D.F. Adams and D.E. Walrath, \"Further Development of the Iosipescu Shear Test Method,\" Experimental Mechanics, Vol. 27, No. 2, June 1987, pp. 113-119."
+              },
+              {
+                "3": "D.F. Adams, \"The Iosipescu Shear Test Method as Used for Testing Polymers and Composite Materials,\" Polymer Composites, Vol. 11, No. 5, October 1990, pp. 286-290."
+              },
+              {
+                "3": "D.F. Adams and E.Q. Lewis, \"Experimental Strain Analysis of the Iosipescu Shear Test Specimen,\" Experimental Mechanics, Vol. 35, No. 4, December 1995, pp. 352-360."
+              }
+            ]
+          }
+        }
+      },
+      "tensileloading": {
+        "name": "Tensile Loading",
+        "url": "tensileloading",
+        "fixtures": {
+          "WTF-IO": {
+            "name": "IOSIPESCU SHEAR TEST FIXTURE (ASTM D 5379)",
+            "model": "WTF-IO",
+            "material": "17-4PH stainless steel",
+            "figures": [
+              {
+                "fig": "1",
+                "pics": [
+                  {
+                    "source": "public/images/productImages/D5379/image001a.jpg",
+                    "title": "front-view"
+                  },
+                  {
+                    "source": "public/images/productImages/D5379/image001b.jpg",
+                    "title": "backview"
+                  }
+                ],
+                "desc": "ASTM Standard D 5379 Iosipescu Shear Test Fixture, shown with Optional Adapter",
+                "info": [
+                  "The Iosipescu shear test fixture was actively developed for use with composite materials during the late 1970s and early 1980s by the Composite Materials Research Group at the University of Wyoming.  A large number of fixtures have been provided to research groups around the world since that time and the test method is now in widespread use. ASTM Standard D 5379 governing the test method was first issued in 1993 (Reference 1). General testing procedures are provided in that standard. In addition, considerable additional discussion of results typically obtained is contained in the references listed here.",
+                  "The standard test specimen (as shown installed in the front view photograph of Fig. 1) is 3\" long, 0.75\" wide, and of any thickness up to 0.50\". Typically, a specimen on the order of 0.1\" thick is used. The fixture will also accommodate shorter and narrower specimens, if desired.  A 90° notch is machined into each edge of the specimen, and a strain gage can be mounted on the specimen surface in the notched region to monitor shear strain. Either a standard ±45° biaxial gage or a special Iosipescu gage is commonly used. The small diameter rod projecting out of the fixture below the lower notch in the specimen (front view photograph in Fig. 1) is lifted up with a finger while installing a test specimen, to center the specimen left to right. The specimen is pushed up against the flat back of the fixture to locate it fore and aft. The tapered wedges are not intended to be clamps; they are adjusted with finger knobs to accommodate specimens of slightly varying widths. Wedges of alternate thickness can be provided to accommodate specimens outside this small range of thickness variation.",
+                  "The moving half of the fixture incorporates a linear ball bushing (see rear view photograph in Fig. 1) that moves on a hardened steel vertical post mounted in the base of the fixture. This ball bearing eliminates guidepost binding and minimizes frictional resistance. The closeness of fit of the bearing can be adjusted via the screw and locking nut visible on the backside of the moving half of the fixture.",
+                  "In use, the fixture rests unconstrained directly on the base of the testing machine. A standard 1.25\" diameter stud with lock ring and 0.50\" diameter cross-pin hole, threaded into the moving half of the fixture, is provided with the fixture, as shown on the standard-size fixture in Fig. 2. Any special adapter required to attach this stud to the particular testing machine being used, such as the standard Instron Type Df adapter shown in Fig. 1, can be provided as an option at nominal additional cost. The adapter is pinned to the stud and secured via the lock ring provided with the fixture."
+                ]
+              },
+              {
+                "fig": "2",
+                "pics": [
+                  {
+                    "source": "public/images/productImages/D5379/image002.jpg",
+                    "title": " "
+                  }
+                ],
+                "desc": "Quarter-Scale Iosipescu Shear Fixture (left) and Standard Fixture (right)",
+                "info": [
+                  "An example of a special fixture is shown in Fig. 2. The small fixture on the left is essentially a one-quarter scale model of the standard fixture, designed to test a specimen only 20mm long, 5mm wide, and up to 5mm thick. A standard-size fixture is shown on the right for comparison. Special larger-than-standard fixtures have also been fabricated for customers."
+                ]
+              },
+              {
+                "fig": "3",
+                "pics": [
+                  {
+                    "source": "public/images/productImages/D5379/image003.jpg",
+                    "title": " "
+                  }
+                ],
+                "desc": "Nickel Superalloy Iosipescu Shear Test Fixture for Use to 1500°F (815°C)",
+                "info": [
+                  "Figure 3 shows a special fixture designed for high temperature testing. This fixture is fabricated of a nickel superalloy, for use at temperatures up to 1500ºF (815 ºC). Since ball bushings capable of operating at these high temperatures are not available, the right half of the fixture moves on a large diameter, close-fitting alignment post. Also, since this fixture is normally used in a high temperature furnace, the base of the fixture contains a threaded hole (barely visible) for attachment to a support column, and a threaded stud is provided at the top for attachment."
+                ]
+              }
+            ],
+            "sources": [
+              {
+                "1": "ASTM Standard D5379-12, \"Standard Test Method for Shear Properties of Composite Materials by the V-Notched Beam Method,\" American Society for Testing and Materials, West Conshohocken, Pennsylvania (first published in May 1993)."
+              },
+              {
+                "2": "N. Iosipescu, \"New Accurate Procedure for Single Shear Testing of Metals,\" Journal of Materials, Vol. 2, No. 3, September 1967, pp. 537-566."
+              },
+              {
+                "3": "D.E. Walrath and D.F. Adams, \"The Iosipescu Shear Test as Applied to Composite Materials,\" Experimental Mechanics, Vol. 23, No. 1, March 1983, pp. 105-110."
+              },
+              {
+                "3": "D.F. Adams and D.E. Walrath, \"Current Status of the Iosipescu Shear Test Method,\" Journal of Composite Materials, Vol. 21, June 1987, pp. 484-505."
+              },
+              {
+                "3": "D.F. Adams and D.E. Walrath, \"Further Development of the Iosipescu Shear Test Method,\" Experimental Mechanics, Vol. 27, No. 2, June 1987, pp. 113-119."
+              },
+              {
+                "3": "D.F. Adams, \"The Iosipescu Shear Test Method as Used for Testing Polymers and Composite Materials,\" Polymer Composites, Vol. 11, No. 5, October 1990, pp. 286-290."
+              },
+              {
+                "3": "D.F. Adams and E.Q. Lewis, \"Experimental Strain Analysis of the Iosipescu Shear Test Specimen,\" Experimental Mechanics, Vol. 35, No. 4, December 1995, pp. 352-360."
+              }
+            ]
+          }
+        }
+      },
+      "specialtensile": {
+        "name": "Specialty Tensile Test Fixtures",
+        "url": "specialtensile",
+        "fixtures": {
+          "WTF-IO": {
+            "name": "IOSIPESCU SHEAR TEST FIXTURE (ASTM D 5379)",
+            "model": "WTF-IO",
+            "material": "17-4PH stainless steel",
+            "figures": [
+              {
+                "fig": "1",
+                "pics": [
+                  {
+                    "source": "public/images/productImages/D5379/image001a.jpg",
+                    "title": "front-view"
+                  },
+                  {
+                    "source": "public/images/productImages/D5379/image001b.jpg",
+                    "title": "backview"
+                  }
+                ],
+                "desc": "ASTM Standard D 5379 Iosipescu Shear Test Fixture, shown with Optional Adapter",
+                "info": [
+                  "The Iosipescu shear test fixture was actively developed for use with composite materials during the late 1970s and early 1980s by the Composite Materials Research Group at the University of Wyoming.  A large number of fixtures have been provided to research groups around the world since that time and the test method is now in widespread use. ASTM Standard D 5379 governing the test method was first issued in 1993 (Reference 1). General testing procedures are provided in that standard. In addition, considerable additional discussion of results typically obtained is contained in the references listed here.",
+                  "The standard test specimen (as shown installed in the front view photograph of Fig. 1) is 3\" long, 0.75\" wide, and of any thickness up to 0.50\". Typically, a specimen on the order of 0.1\" thick is used. The fixture will also accommodate shorter and narrower specimens, if desired.  A 90° notch is machined into each edge of the specimen, and a strain gage can be mounted on the specimen surface in the notched region to monitor shear strain. Either a standard ±45° biaxial gage or a special Iosipescu gage is commonly used. The small diameter rod projecting out of the fixture below the lower notch in the specimen (front view photograph in Fig. 1) is lifted up with a finger while installing a test specimen, to center the specimen left to right. The specimen is pushed up against the flat back of the fixture to locate it fore and aft. The tapered wedges are not intended to be clamps; they are adjusted with finger knobs to accommodate specimens of slightly varying widths. Wedges of alternate thickness can be provided to accommodate specimens outside this small range of thickness variation.",
+                  "The moving half of the fixture incorporates a linear ball bushing (see rear view photograph in Fig. 1) that moves on a hardened steel vertical post mounted in the base of the fixture. This ball bearing eliminates guidepost binding and minimizes frictional resistance. The closeness of fit of the bearing can be adjusted via the screw and locking nut visible on the backside of the moving half of the fixture.",
+                  "In use, the fixture rests unconstrained directly on the base of the testing machine. A standard 1.25\" diameter stud with lock ring and 0.50\" diameter cross-pin hole, threaded into the moving half of the fixture, is provided with the fixture, as shown on the standard-size fixture in Fig. 2. Any special adapter required to attach this stud to the particular testing machine being used, such as the standard Instron Type Df adapter shown in Fig. 1, can be provided as an option at nominal additional cost. The adapter is pinned to the stud and secured via the lock ring provided with the fixture."
+                ]
+              },
+              {
+                "fig": "2",
+                "pics": [
+                  {
+                    "source": "public/images/productImages/D5379/image002.jpg",
+                    "title": " "
+                  }
+                ],
+                "desc": "Quarter-Scale Iosipescu Shear Fixture (left) and Standard Fixture (right)",
+                "info": [
+                  "An example of a special fixture is shown in Fig. 2. The small fixture on the left is essentially a one-quarter scale model of the standard fixture, designed to test a specimen only 20mm long, 5mm wide, and up to 5mm thick. A standard-size fixture is shown on the right for comparison. Special larger-than-standard fixtures have also been fabricated for customers."
+                ]
+              },
+              {
+                "fig": "3",
+                "pics": [
+                  {
+                    "source": "public/images/productImages/D5379/image003.jpg",
+                    "title": " "
+                  }
+                ],
+                "desc": "Nickel Superalloy Iosipescu Shear Test Fixture for Use to 1500°F (815°C)",
+                "info": [
+                  "Figure 3 shows a special fixture designed for high temperature testing. This fixture is fabricated of a nickel superalloy, for use at temperatures up to 1500ºF (815 ºC). Since ball bushings capable of operating at these high temperatures are not available, the right half of the fixture moves on a large diameter, close-fitting alignment post. Also, since this fixture is normally used in a high temperature furnace, the base of the fixture contains a threaded hole (barely visible) for attachment to a support column, and a threaded stud is provided at the top for attachment."
+                ]
+              }
+            ],
+            "sources": [
+              {
+                "1": "ASTM Standard D5379-12, \"Standard Test Method for Shear Properties of Composite Materials by the V-Notched Beam Method,\" American Society for Testing and Materials, West Conshohocken, Pennsylvania (first published in May 1993)."
+              },
+              {
+                "2": "N. Iosipescu, \"New Accurate Procedure for Single Shear Testing of Metals,\" Journal of Materials, Vol. 2, No. 3, September 1967, pp. 537-566."
+              },
+              {
+                "3": "D.E. Walrath and D.F. Adams, \"The Iosipescu Shear Test as Applied to Composite Materials,\" Experimental Mechanics, Vol. 23, No. 1, March 1983, pp. 105-110."
+              },
+              {
+                "3": "D.F. Adams and D.E. Walrath, \"Current Status of the Iosipescu Shear Test Method,\" Journal of Composite Materials, Vol. 21, June 1987, pp. 484-505."
+              },
+              {
+                "3": "D.F. Adams and D.E. Walrath, \"Further Development of the Iosipescu Shear Test Method,\" Experimental Mechanics, Vol. 27, No. 2, June 1987, pp. 113-119."
+              },
+              {
+                "3": "D.F. Adams, \"The Iosipescu Shear Test Method as Used for Testing Polymers and Composite Materials,\" Polymer Composites, Vol. 11, No. 5, October 1990, pp. 286-290."
+              },
+              {
+                "3": "D.F. Adams and E.Q. Lewis, \"Experimental Strain Analysis of the Iosipescu Shear Test Specimen,\" Experimental Mechanics, Vol. 35, No. 4, December 1995, pp. 352-360."
+              }
+            ]
+          }
+        }
+      },
+      "fracturetoughness": {
+        "name": "Fracture Toughness Test Fixtures",
+        "url": "fracturetoughness",
+        "fixtures": {
+          "WTF-IO": {
+            "name": "IOSIPESCU SHEAR TEST FIXTURE (ASTM D 5379)",
+            "model": "WTF-IO",
+            "material": "17-4PH stainless steel",
+            "figures": [
+              {
+                "fig": "1",
+                "pics": [
+                  {
+                    "source": "public/images/productImages/D5379/image001a.jpg",
+                    "title": "front-view"
+                  },
+                  {
+                    "source": "public/images/productImages/D5379/image001b.jpg",
+                    "title": "backview"
+                  }
+                ],
+                "desc": "ASTM Standard D 5379 Iosipescu Shear Test Fixture, shown with Optional Adapter",
+                "info": [
+                  "The Iosipescu shear test fixture was actively developed for use with composite materials during the late 1970s and early 1980s by the Composite Materials Research Group at the University of Wyoming.  A large number of fixtures have been provided to research groups around the world since that time and the test method is now in widespread use. ASTM Standard D 5379 governing the test method was first issued in 1993 (Reference 1). General testing procedures are provided in that standard. In addition, considerable additional discussion of results typically obtained is contained in the references listed here.",
+                  "The standard test specimen (as shown installed in the front view photograph of Fig. 1) is 3\" long, 0.75\" wide, and of any thickness up to 0.50\". Typically, a specimen on the order of 0.1\" thick is used. The fixture will also accommodate shorter and narrower specimens, if desired.  A 90° notch is machined into each edge of the specimen, and a strain gage can be mounted on the specimen surface in the notched region to monitor shear strain. Either a standard ±45° biaxial gage or a special Iosipescu gage is commonly used. The small diameter rod projecting out of the fixture below the lower notch in the specimen (front view photograph in Fig. 1) is lifted up with a finger while installing a test specimen, to center the specimen left to right. The specimen is pushed up against the flat back of the fixture to locate it fore and aft. The tapered wedges are not intended to be clamps; they are adjusted with finger knobs to accommodate specimens of slightly varying widths. Wedges of alternate thickness can be provided to accommodate specimens outside this small range of thickness variation.",
+                  "The moving half of the fixture incorporates a linear ball bushing (see rear view photograph in Fig. 1) that moves on a hardened steel vertical post mounted in the base of the fixture. This ball bearing eliminates guidepost binding and minimizes frictional resistance. The closeness of fit of the bearing can be adjusted via the screw and locking nut visible on the backside of the moving half of the fixture.",
+                  "In use, the fixture rests unconstrained directly on the base of the testing machine. A standard 1.25\" diameter stud with lock ring and 0.50\" diameter cross-pin hole, threaded into the moving half of the fixture, is provided with the fixture, as shown on the standard-size fixture in Fig. 2. Any special adapter required to attach this stud to the particular testing machine being used, such as the standard Instron Type Df adapter shown in Fig. 1, can be provided as an option at nominal additional cost. The adapter is pinned to the stud and secured via the lock ring provided with the fixture."
+                ]
+              },
+              {
+                "fig": "2",
+                "pics": [
+                  {
+                    "source": "public/images/productImages/D5379/image002.jpg",
+                    "title": " "
+                  }
+                ],
+                "desc": "Quarter-Scale Iosipescu Shear Fixture (left) and Standard Fixture (right)",
+                "info": [
+                  "An example of a special fixture is shown in Fig. 2. The small fixture on the left is essentially a one-quarter scale model of the standard fixture, designed to test a specimen only 20mm long, 5mm wide, and up to 5mm thick. A standard-size fixture is shown on the right for comparison. Special larger-than-standard fixtures have also been fabricated for customers."
+                ]
+              },
+              {
+                "fig": "3",
+                "pics": [
+                  {
+                    "source": "public/images/productImages/D5379/image003.jpg",
+                    "title": " "
+                  }
+                ],
+                "desc": "Nickel Superalloy Iosipescu Shear Test Fixture for Use to 1500°F (815°C)",
+                "info": [
+                  "Figure 3 shows a special fixture designed for high temperature testing. This fixture is fabricated of a nickel superalloy, for use at temperatures up to 1500ºF (815 ºC). Since ball bushings capable of operating at these high temperatures are not available, the right half of the fixture moves on a large diameter, close-fitting alignment post. Also, since this fixture is normally used in a high temperature furnace, the base of the fixture contains a threaded hole (barely visible) for attachment to a support column, and a threaded stud is provided at the top for attachment."
+                ]
+              }
+            ],
+            "sources": [
+              {
+                "1": "ASTM Standard D5379-12, \"Standard Test Method for Shear Properties of Composite Materials by the V-Notched Beam Method,\" American Society for Testing and Materials, West Conshohocken, Pennsylvania (first published in May 1993)."
+              },
+              {
+                "2": "N. Iosipescu, \"New Accurate Procedure for Single Shear Testing of Metals,\" Journal of Materials, Vol. 2, No. 3, September 1967, pp. 537-566."
+              },
+              {
+                "3": "D.E. Walrath and D.F. Adams, \"The Iosipescu Shear Test as Applied to Composite Materials,\" Experimental Mechanics, Vol. 23, No. 1, March 1983, pp. 105-110."
+              },
+              {
+                "3": "D.F. Adams and D.E. Walrath, \"Current Status of the Iosipescu Shear Test Method,\" Journal of Composite Materials, Vol. 21, June 1987, pp. 484-505."
+              },
+              {
+                "3": "D.F. Adams and D.E. Walrath, \"Further Development of the Iosipescu Shear Test Method,\" Experimental Mechanics, Vol. 27, No. 2, June 1987, pp. 113-119."
+              },
+              {
+                "3": "D.F. Adams, \"The Iosipescu Shear Test Method as Used for Testing Polymers and Composite Materials,\" Polymer Composites, Vol. 11, No. 5, October 1990, pp. 286-290."
+              },
+              {
+                "3": "D.F. Adams and E.Q. Lewis, \"Experimental Strain Analysis of the Iosipescu Shear Test Specimen,\" Experimental Mechanics, Vol. 35, No. 4, December 1995, pp. 352-360."
+              }
+            ]
+          }
+        }
+      },
+      "fastener": {
+        "name": "Fastener Related Test Fixtures",
+        "url": "fastener",
+        "fixtures": {
+          "WTF-IO": {
+            "name": "IOSIPESCU SHEAR TEST FIXTURE (ASTM D 5379)",
+            "model": "WTF-IO",
+            "material": "17-4PH stainless steel",
+            "figures": [
+              {
+                "fig": "1",
+                "pics": [
+                  {
+                    "source": "public/images/productImages/D5379/image001a.jpg",
+                    "title": "front-view"
+                  },
+                  {
+                    "source": "public/images/productImages/D5379/image001b.jpg",
+                    "title": "backview"
+                  }
+                ],
+                "desc": "ASTM Standard D 5379 Iosipescu Shear Test Fixture, shown with Optional Adapter",
+                "info": [
+                  "The Iosipescu shear test fixture was actively developed for use with composite materials during the late 1970s and early 1980s by the Composite Materials Research Group at the University of Wyoming.  A large number of fixtures have been provided to research groups around the world since that time and the test method is now in widespread use. ASTM Standard D 5379 governing the test method was first issued in 1993 (Reference 1). General testing procedures are provided in that standard. In addition, considerable additional discussion of results typically obtained is contained in the references listed here.",
+                  "The standard test specimen (as shown installed in the front view photograph of Fig. 1) is 3\" long, 0.75\" wide, and of any thickness up to 0.50\". Typically, a specimen on the order of 0.1\" thick is used. The fixture will also accommodate shorter and narrower specimens, if desired.  A 90° notch is machined into each edge of the specimen, and a strain gage can be mounted on the specimen surface in the notched region to monitor shear strain. Either a standard ±45° biaxial gage or a special Iosipescu gage is commonly used. The small diameter rod projecting out of the fixture below the lower notch in the specimen (front view photograph in Fig. 1) is lifted up with a finger while installing a test specimen, to center the specimen left to right. The specimen is pushed up against the flat back of the fixture to locate it fore and aft. The tapered wedges are not intended to be clamps; they are adjusted with finger knobs to accommodate specimens of slightly varying widths. Wedges of alternate thickness can be provided to accommodate specimens outside this small range of thickness variation.",
+                  "The moving half of the fixture incorporates a linear ball bushing (see rear view photograph in Fig. 1) that moves on a hardened steel vertical post mounted in the base of the fixture. This ball bearing eliminates guidepost binding and minimizes frictional resistance. The closeness of fit of the bearing can be adjusted via the screw and locking nut visible on the backside of the moving half of the fixture.",
+                  "In use, the fixture rests unconstrained directly on the base of the testing machine. A standard 1.25\" diameter stud with lock ring and 0.50\" diameter cross-pin hole, threaded into the moving half of the fixture, is provided with the fixture, as shown on the standard-size fixture in Fig. 2. Any special adapter required to attach this stud to the particular testing machine being used, such as the standard Instron Type Df adapter shown in Fig. 1, can be provided as an option at nominal additional cost. The adapter is pinned to the stud and secured via the lock ring provided with the fixture."
+                ]
+              },
+              {
+                "fig": "2",
+                "pics": [
+                  {
+                    "source": "public/images/productImages/D5379/image002.jpg",
+                    "title": " "
+                  }
+                ],
+                "desc": "Quarter-Scale Iosipescu Shear Fixture (left) and Standard Fixture (right)",
+                "info": [
+                  "An example of a special fixture is shown in Fig. 2. The small fixture on the left is essentially a one-quarter scale model of the standard fixture, designed to test a specimen only 20mm long, 5mm wide, and up to 5mm thick. A standard-size fixture is shown on the right for comparison. Special larger-than-standard fixtures have also been fabricated for customers."
+                ]
+              },
+              {
+                "fig": "3",
+                "pics": [
+                  {
+                    "source": "public/images/productImages/D5379/image003.jpg",
+                    "title": " "
+                  }
+                ],
+                "desc": "Nickel Superalloy Iosipescu Shear Test Fixture for Use to 1500°F (815°C)",
+                "info": [
+                  "Figure 3 shows a special fixture designed for high temperature testing. This fixture is fabricated of a nickel superalloy, for use at temperatures up to 1500ºF (815 ºC). Since ball bushings capable of operating at these high temperatures are not available, the right half of the fixture moves on a large diameter, close-fitting alignment post. Also, since this fixture is normally used in a high temperature furnace, the base of the fixture contains a threaded hole (barely visible) for attachment to a support column, and a threaded stud is provided at the top for attachment."
+                ]
+              }
+            ],
+            "sources": [
+              {
+                "1": "ASTM Standard D5379-12, \"Standard Test Method for Shear Properties of Composite Materials by the V-Notched Beam Method,\" American Society for Testing and Materials, West Conshohocken, Pennsylvania (first published in May 1993)."
+              },
+              {
+                "2": "N. Iosipescu, \"New Accurate Procedure for Single Shear Testing of Metals,\" Journal of Materials, Vol. 2, No. 3, September 1967, pp. 537-566."
+              },
+              {
+                "3": "D.E. Walrath and D.F. Adams, \"The Iosipescu Shear Test as Applied to Composite Materials,\" Experimental Mechanics, Vol. 23, No. 1, March 1983, pp. 105-110."
+              },
+              {
+                "3": "D.F. Adams and D.E. Walrath, \"Current Status of the Iosipescu Shear Test Method,\" Journal of Composite Materials, Vol. 21, June 1987, pp. 484-505."
+              },
+              {
+                "3": "D.F. Adams and D.E. Walrath, \"Further Development of the Iosipescu Shear Test Method,\" Experimental Mechanics, Vol. 27, No. 2, June 1987, pp. 113-119."
+              },
+              {
+                "3": "D.F. Adams, \"The Iosipescu Shear Test Method as Used for Testing Polymers and Composite Materials,\" Polymer Composites, Vol. 11, No. 5, October 1990, pp. 286-290."
+              },
+              {
+                "3": "D.F. Adams and E.Q. Lewis, \"Experimental Strain Analysis of the Iosipescu Shear Test Specimen,\" Experimental Mechanics, Vol. 35, No. 4, December 1995, pp. 352-360."
+              }
+            ]
+          }
+        }
+      },
+      "bond": {
+        "name": "Bond Test Fixtures",
+        "url": "bond",
+        "fixtures": {
+          "WTF-IO": {
+            "name": "IOSIPESCU SHEAR TEST FIXTURE (ASTM D 5379)",
+            "model": "WTF-IO",
+            "material": "17-4PH stainless steel",
+            "figures": [
+              {
+                "fig": "1",
+                "pics": [
+                  {
+                    "source": "public/images/productImages/D5379/image001a.jpg",
+                    "title": "front-view"
+                  },
+                  {
+                    "source": "public/images/productImages/D5379/image001b.jpg",
+                    "title": "backview"
+                  }
+                ],
+                "desc": "ASTM Standard D 5379 Iosipescu Shear Test Fixture, shown with Optional Adapter",
+                "info": [
+                  "The Iosipescu shear test fixture was actively developed for use with composite materials during the late 1970s and early 1980s by the Composite Materials Research Group at the University of Wyoming.  A large number of fixtures have been provided to research groups around the world since that time and the test method is now in widespread use. ASTM Standard D 5379 governing the test method was first issued in 1993 (Reference 1). General testing procedures are provided in that standard. In addition, considerable additional discussion of results typically obtained is contained in the references listed here.",
+                  "The standard test specimen (as shown installed in the front view photograph of Fig. 1) is 3\" long, 0.75\" wide, and of any thickness up to 0.50\". Typically, a specimen on the order of 0.1\" thick is used. The fixture will also accommodate shorter and narrower specimens, if desired.  A 90° notch is machined into each edge of the specimen, and a strain gage can be mounted on the specimen surface in the notched region to monitor shear strain. Either a standard ±45° biaxial gage or a special Iosipescu gage is commonly used. The small diameter rod projecting out of the fixture below the lower notch in the specimen (front view photograph in Fig. 1) is lifted up with a finger while installing a test specimen, to center the specimen left to right. The specimen is pushed up against the flat back of the fixture to locate it fore and aft. The tapered wedges are not intended to be clamps; they are adjusted with finger knobs to accommodate specimens of slightly varying widths. Wedges of alternate thickness can be provided to accommodate specimens outside this small range of thickness variation.",
+                  "The moving half of the fixture incorporates a linear ball bushing (see rear view photograph in Fig. 1) that moves on a hardened steel vertical post mounted in the base of the fixture. This ball bearing eliminates guidepost binding and minimizes frictional resistance. The closeness of fit of the bearing can be adjusted via the screw and locking nut visible on the backside of the moving half of the fixture.",
+                  "In use, the fixture rests unconstrained directly on the base of the testing machine. A standard 1.25\" diameter stud with lock ring and 0.50\" diameter cross-pin hole, threaded into the moving half of the fixture, is provided with the fixture, as shown on the standard-size fixture in Fig. 2. Any special adapter required to attach this stud to the particular testing machine being used, such as the standard Instron Type Df adapter shown in Fig. 1, can be provided as an option at nominal additional cost. The adapter is pinned to the stud and secured via the lock ring provided with the fixture."
+                ]
+              },
+              {
+                "fig": "2",
+                "pics": [
+                  {
+                    "source": "public/images/productImages/D5379/image002.jpg",
+                    "title": " "
+                  }
+                ],
+                "desc": "Quarter-Scale Iosipescu Shear Fixture (left) and Standard Fixture (right)",
+                "info": [
+                  "An example of a special fixture is shown in Fig. 2. The small fixture on the left is essentially a one-quarter scale model of the standard fixture, designed to test a specimen only 20mm long, 5mm wide, and up to 5mm thick. A standard-size fixture is shown on the right for comparison. Special larger-than-standard fixtures have also been fabricated for customers."
+                ]
+              },
+              {
+                "fig": "3",
+                "pics": [
+                  {
+                    "source": "public/images/productImages/D5379/image003.jpg",
+                    "title": " "
+                  }
+                ],
+                "desc": "Nickel Superalloy Iosipescu Shear Test Fixture for Use to 1500°F (815°C)",
+                "info": [
+                  "Figure 3 shows a special fixture designed for high temperature testing. This fixture is fabricated of a nickel superalloy, for use at temperatures up to 1500ºF (815 ºC). Since ball bushings capable of operating at these high temperatures are not available, the right half of the fixture moves on a large diameter, close-fitting alignment post. Also, since this fixture is normally used in a high temperature furnace, the base of the fixture contains a threaded hole (barely visible) for attachment to a support column, and a threaded stud is provided at the top for attachment."
+                ]
+              }
+            ],
+            "sources": [
+              {
+                "1": "ASTM Standard D5379-12, \"Standard Test Method for Shear Properties of Composite Materials by the V-Notched Beam Method,\" American Society for Testing and Materials, West Conshohocken, Pennsylvania (first published in May 1993)."
+              },
+              {
+                "2": "N. Iosipescu, \"New Accurate Procedure for Single Shear Testing of Metals,\" Journal of Materials, Vol. 2, No. 3, September 1967, pp. 537-566."
+              },
+              {
+                "3": "D.E. Walrath and D.F. Adams, \"The Iosipescu Shear Test as Applied to Composite Materials,\" Experimental Mechanics, Vol. 23, No. 1, March 1983, pp. 105-110."
+              },
+              {
+                "3": "D.F. Adams and D.E. Walrath, \"Current Status of the Iosipescu Shear Test Method,\" Journal of Composite Materials, Vol. 21, June 1987, pp. 484-505."
+              },
+              {
+                "3": "D.F. Adams and D.E. Walrath, \"Further Development of the Iosipescu Shear Test Method,\" Experimental Mechanics, Vol. 27, No. 2, June 1987, pp. 113-119."
+              },
+              {
+                "3": "D.F. Adams, \"The Iosipescu Shear Test Method as Used for Testing Polymers and Composite Materials,\" Polymer Composites, Vol. 11, No. 5, October 1990, pp. 286-290."
+              },
+              {
+                "3": "D.F. Adams and E.Q. Lewis, \"Experimental Strain Analysis of the Iosipescu Shear Test Specimen,\" Experimental Mechanics, Vol. 35, No. 4, December 1995, pp. 352-360."
+              }
+            ]
+          }
+        }
+      },
+      "rubber": {
+        "name": "Rubber Test Fixtures",
+        "url": "rubber",
+        "fixtures": {
+          "WTF-IO": {
+            "name": "IOSIPESCU SHEAR TEST FIXTURE (ASTM D 5379)",
+            "model": "WTF-IO",
+            "material": "17-4PH stainless steel",
+            "figures": [
+              {
+                "fig": "1",
+                "pics": [
+                  {
+                    "source": "public/images/productImages/D5379/image001a.jpg",
+                    "title": "front-view"
+                  },
+                  {
+                    "source": "public/images/productImages/D5379/image001b.jpg",
+                    "title": "backview"
+                  }
+                ],
+                "desc": "ASTM Standard D 5379 Iosipescu Shear Test Fixture, shown with Optional Adapter",
+                "info": [
+                  "The Iosipescu shear test fixture was actively developed for use with composite materials during the late 1970s and early 1980s by the Composite Materials Research Group at the University of Wyoming.  A large number of fixtures have been provided to research groups around the world since that time and the test method is now in widespread use. ASTM Standard D 5379 governing the test method was first issued in 1993 (Reference 1). General testing procedures are provided in that standard. In addition, considerable additional discussion of results typically obtained is contained in the references listed here.",
+                  "The standard test specimen (as shown installed in the front view photograph of Fig. 1) is 3\" long, 0.75\" wide, and of any thickness up to 0.50\". Typically, a specimen on the order of 0.1\" thick is used. The fixture will also accommodate shorter and narrower specimens, if desired.  A 90° notch is machined into each edge of the specimen, and a strain gage can be mounted on the specimen surface in the notched region to monitor shear strain. Either a standard ±45° biaxial gage or a special Iosipescu gage is commonly used. The small diameter rod projecting out of the fixture below the lower notch in the specimen (front view photograph in Fig. 1) is lifted up with a finger while installing a test specimen, to center the specimen left to right. The specimen is pushed up against the flat back of the fixture to locate it fore and aft. The tapered wedges are not intended to be clamps; they are adjusted with finger knobs to accommodate specimens of slightly varying widths. Wedges of alternate thickness can be provided to accommodate specimens outside this small range of thickness variation.",
+                  "The moving half of the fixture incorporates a linear ball bushing (see rear view photograph in Fig. 1) that moves on a hardened steel vertical post mounted in the base of the fixture. This ball bearing eliminates guidepost binding and minimizes frictional resistance. The closeness of fit of the bearing can be adjusted via the screw and locking nut visible on the backside of the moving half of the fixture.",
+                  "In use, the fixture rests unconstrained directly on the base of the testing machine. A standard 1.25\" diameter stud with lock ring and 0.50\" diameter cross-pin hole, threaded into the moving half of the fixture, is provided with the fixture, as shown on the standard-size fixture in Fig. 2. Any special adapter required to attach this stud to the particular testing machine being used, such as the standard Instron Type Df adapter shown in Fig. 1, can be provided as an option at nominal additional cost. The adapter is pinned to the stud and secured via the lock ring provided with the fixture."
+                ]
+              },
+              {
+                "fig": "2",
+                "pics": [
+                  {
+                    "source": "public/images/productImages/D5379/image002.jpg",
+                    "title": " "
+                  }
+                ],
+                "desc": "Quarter-Scale Iosipescu Shear Fixture (left) and Standard Fixture (right)",
+                "info": [
+                  "An example of a special fixture is shown in Fig. 2. The small fixture on the left is essentially a one-quarter scale model of the standard fixture, designed to test a specimen only 20mm long, 5mm wide, and up to 5mm thick. A standard-size fixture is shown on the right for comparison. Special larger-than-standard fixtures have also been fabricated for customers."
+                ]
+              },
+              {
+                "fig": "3",
+                "pics": [
+                  {
+                    "source": "public/images/productImages/D5379/image003.jpg",
+                    "title": " "
+                  }
+                ],
+                "desc": "Nickel Superalloy Iosipescu Shear Test Fixture for Use to 1500°F (815°C)",
+                "info": [
+                  "Figure 3 shows a special fixture designed for high temperature testing. This fixture is fabricated of a nickel superalloy, for use at temperatures up to 1500ºF (815 ºC). Since ball bushings capable of operating at these high temperatures are not available, the right half of the fixture moves on a large diameter, close-fitting alignment post. Also, since this fixture is normally used in a high temperature furnace, the base of the fixture contains a threaded hole (barely visible) for attachment to a support column, and a threaded stud is provided at the top for attachment."
+                ]
+              }
+            ],
+            "sources": [
+              {
+                "1": "ASTM Standard D5379-12, \"Standard Test Method for Shear Properties of Composite Materials by the V-Notched Beam Method,\" American Society for Testing and Materials, West Conshohocken, Pennsylvania (first published in May 1993)."
+              },
+              {
+                "2": "N. Iosipescu, \"New Accurate Procedure for Single Shear Testing of Metals,\" Journal of Materials, Vol. 2, No. 3, September 1967, pp. 537-566."
+              },
+              {
+                "3": "D.E. Walrath and D.F. Adams, \"The Iosipescu Shear Test as Applied to Composite Materials,\" Experimental Mechanics, Vol. 23, No. 1, March 1983, pp. 105-110."
+              },
+              {
+                "3": "D.F. Adams and D.E. Walrath, \"Current Status of the Iosipescu Shear Test Method,\" Journal of Composite Materials, Vol. 21, June 1987, pp. 484-505."
+              },
+              {
+                "3": "D.F. Adams and D.E. Walrath, \"Further Development of the Iosipescu Shear Test Method,\" Experimental Mechanics, Vol. 27, No. 2, June 1987, pp. 113-119."
+              },
+              {
+                "3": "D.F. Adams, \"The Iosipescu Shear Test Method as Used for Testing Polymers and Composite Materials,\" Polymer Composites, Vol. 11, No. 5, October 1990, pp. 286-290."
+              },
+              {
+                "3": "D.F. Adams and E.Q. Lewis, \"Experimental Strain Analysis of the Iosipescu Shear Test Specimen,\" Experimental Mechanics, Vol. 35, No. 4, December 1995, pp. 352-360."
+              }
+            ]
+          }
+        }
+      },
+      "specimenfab": {
+        "name": "Specimen Fabrication Aids",
+        "url": "specimenfab",
+        "fixtures": {
+          "WTF-IO": {
+            "name": "IOSIPESCU SHEAR TEST FIXTURE (ASTM D 5379)",
+            "model": "WTF-IO",
+            "material": "17-4PH stainless steel",
+            "figures": [
+              {
+                "fig": "1",
+                "pics": [
+                  {
+                    "source": "public/images/productImages/D5379/image001a.jpg",
+                    "title": "front-view"
+                  },
+                  {
+                    "source": "public/images/productImages/D5379/image001b.jpg",
+                    "title": "backview"
+                  }
+                ],
+                "desc": "ASTM Standard D 5379 Iosipescu Shear Test Fixture, shown with Optional Adapter",
+                "info": [
+                  "The Iosipescu shear test fixture was actively developed for use with composite materials during the late 1970s and early 1980s by the Composite Materials Research Group at the University of Wyoming.  A large number of fixtures have been provided to research groups around the world since that time and the test method is now in widespread use. ASTM Standard D 5379 governing the test method was first issued in 1993 (Reference 1). General testing procedures are provided in that standard. In addition, considerable additional discussion of results typically obtained is contained in the references listed here.",
+                  "The standard test specimen (as shown installed in the front view photograph of Fig. 1) is 3\" long, 0.75\" wide, and of any thickness up to 0.50\". Typically, a specimen on the order of 0.1\" thick is used. The fixture will also accommodate shorter and narrower specimens, if desired.  A 90° notch is machined into each edge of the specimen, and a strain gage can be mounted on the specimen surface in the notched region to monitor shear strain. Either a standard ±45° biaxial gage or a special Iosipescu gage is commonly used. The small diameter rod projecting out of the fixture below the lower notch in the specimen (front view photograph in Fig. 1) is lifted up with a finger while installing a test specimen, to center the specimen left to right. The specimen is pushed up against the flat back of the fixture to locate it fore and aft. The tapered wedges are not intended to be clamps; they are adjusted with finger knobs to accommodate specimens of slightly varying widths. Wedges of alternate thickness can be provided to accommodate specimens outside this small range of thickness variation.",
+                  "The moving half of the fixture incorporates a linear ball bushing (see rear view photograph in Fig. 1) that moves on a hardened steel vertical post mounted in the base of the fixture. This ball bearing eliminates guidepost binding and minimizes frictional resistance. The closeness of fit of the bearing can be adjusted via the screw and locking nut visible on the backside of the moving half of the fixture.",
+                  "In use, the fixture rests unconstrained directly on the base of the testing machine. A standard 1.25\" diameter stud with lock ring and 0.50\" diameter cross-pin hole, threaded into the moving half of the fixture, is provided with the fixture, as shown on the standard-size fixture in Fig. 2. Any special adapter required to attach this stud to the particular testing machine being used, such as the standard Instron Type Df adapter shown in Fig. 1, can be provided as an option at nominal additional cost. The adapter is pinned to the stud and secured via the lock ring provided with the fixture."
+                ]
+              },
+              {
+                "fig": "2",
+                "pics": [
+                  {
+                    "source": "public/images/productImages/D5379/image002.jpg",
+                    "title": " "
+                  }
+                ],
+                "desc": "Quarter-Scale Iosipescu Shear Fixture (left) and Standard Fixture (right)",
+                "info": [
+                  "An example of a special fixture is shown in Fig. 2. The small fixture on the left is essentially a one-quarter scale model of the standard fixture, designed to test a specimen only 20mm long, 5mm wide, and up to 5mm thick. A standard-size fixture is shown on the right for comparison. Special larger-than-standard fixtures have also been fabricated for customers."
+                ]
+              },
+              {
+                "fig": "3",
+                "pics": [
+                  {
+                    "source": "public/images/productImages/D5379/image003.jpg",
+                    "title": " "
+                  }
+                ],
+                "desc": "Nickel Superalloy Iosipescu Shear Test Fixture for Use to 1500°F (815°C)",
+                "info": [
+                  "Figure 3 shows a special fixture designed for high temperature testing. This fixture is fabricated of a nickel superalloy, for use at temperatures up to 1500ºF (815 ºC). Since ball bushings capable of operating at these high temperatures are not available, the right half of the fixture moves on a large diameter, close-fitting alignment post. Also, since this fixture is normally used in a high temperature furnace, the base of the fixture contains a threaded hole (barely visible) for attachment to a support column, and a threaded stud is provided at the top for attachment."
+                ]
+              }
+            ],
+            "sources": [
+              {
+                "1": "ASTM Standard D5379-12, \"Standard Test Method for Shear Properties of Composite Materials by the V-Notched Beam Method,\" American Society for Testing and Materials, West Conshohocken, Pennsylvania (first published in May 1993)."
+              },
+              {
+                "2": "N. Iosipescu, \"New Accurate Procedure for Single Shear Testing of Metals,\" Journal of Materials, Vol. 2, No. 3, September 1967, pp. 537-566."
+              },
+              {
+                "3": "D.E. Walrath and D.F. Adams, \"The Iosipescu Shear Test as Applied to Composite Materials,\" Experimental Mechanics, Vol. 23, No. 1, March 1983, pp. 105-110."
+              },
+              {
+                "3": "D.F. Adams and D.E. Walrath, \"Current Status of the Iosipescu Shear Test Method,\" Journal of Composite Materials, Vol. 21, June 1987, pp. 484-505."
+              },
+              {
+                "3": "D.F. Adams and D.E. Walrath, \"Further Development of the Iosipescu Shear Test Method,\" Experimental Mechanics, Vol. 27, No. 2, June 1987, pp. 113-119."
+              },
+              {
+                "3": "D.F. Adams, \"The Iosipescu Shear Test Method as Used for Testing Polymers and Composite Materials,\" Polymer Composites, Vol. 11, No. 5, October 1990, pp. 286-290."
+              },
+              {
+                "3": "D.F. Adams and E.Q. Lewis, \"Experimental Strain Analysis of the Iosipescu Shear Test Specimen,\" Experimental Mechanics, Vol. 35, No. 4, December 1995, pp. 352-360."
+              }
+            ]
+          }
         }
       }
     }

@@ -1,20 +1,18 @@
-<div class="container">
+
+<!--product display page-->
+<div class="container-fluid">
     <h4 class="title">{{productInfo.name}}</h4>
     <h5 class="sub-heading">Model No. {{productInfo.model}} ({{productInfo.material}})</h5>
     <br>
 
     <!--start repeat of figures for productInfo-->
     <div ng-repeat="figure in productInfo.figures">
-        <div class="container img-wrap ">
-            <!--start image repeat for figure-->
-            <div class="col-xs-12 col-sm-6 center-block" ng-repeat="img in figure.pics">
-                <img  class="" ng-src="{{img.source}}">
-                <p>{{img.title}}</p>
-            </div>
-            <p class="sub-heading center">Fig. {{figure.fig}}: {{figure.desc}}</p>
+        <div class="img-wrap container-fluid">
+            <img-dir ng-repeat="img in figure.pics" image="img" images="figure.pics"></img-dir>
         </div>
-        <!--end image repeat for figure-->
-        <div ng-repeat="paragraph in figure.info">
+        <p class="sub-heading text-box">Fig. {{figure.fig}}: {{figure.desc}}</p>
+
+        <div class="text-box" ng-repeat="paragraph in figure.info">
             <p>{{paragraph}}</p>
             <br>
         </div>

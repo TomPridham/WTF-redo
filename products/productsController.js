@@ -9,5 +9,8 @@ angular.module('WTF').controller('productsCtrl', function ($scope, productServic
         $scope.products = products;
         //$scope.test = "test";
         //console.log($scope.products)
-    })
+    });
+
+
+
 });
