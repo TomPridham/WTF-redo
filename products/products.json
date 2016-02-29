@@ -67,73 +67,61 @@
             ]
           },
           "WTF-NR": {
-            "D 7078": {
-              "name": "V-NOTCHED RAIL SHEAR TEST FIXTURE (ASTM D 7078)",
-              "model": "WTF-NR",
-              "material": "17-4PH stainless steel",
-              "figures": [
-                {
-                  "1": {
-                    "fig": "1",
-                    "pics": [
-                      {
-                        "1": {
-                          "source": "someUrl",
-                          "title": "front-view"
-                        }
-                      },
-                      {
-                        "2": {
-                          "backView": "someUrl",
-                          "title": "backview"
-                        }
-                      }
-                    ],
-                    "desc": "V-Notched Rail Shear Test Fixture shown, with a standard V-Notched Specimen (top center)",
-                    "info": [
-                      {
-                        "1": "whatever"
-                      },
-                      {
-                        "2": "more stuff and junk"
-                      }
-                    ]
+            "name": "V-NOTCHED RAIL SHEAR TEST FIXTURE (ASTM D 7078)",
+            "model": "WTF-NR",
+            "material": "17-4PH stainless steel",
+            "figures": [
+              {
+                "fig": "1",
+                "pics": [
+                  {
+                    "source": "public/images/productImages/D5379/image001a.jpg",
+                    "title": "V-Notched Rail Shear Test Fixture shown, with a standard V-Notched Specimen (top center)"
                   }
-                },
-                {
-                  "2": {
-                    "fig": "2",
-                    "pics": [
-                      {
-                        "1": {
-                          "source": "someUrl",
-                          "title": "front-view"
-                        }
-                      }
-                    ],
-                    "desc": "ASTM Standard D 5379 Iosipescu Shear Test Fixture, shown with Optional Adapter",
-                    "info": [
-                      {
-                        "1": "whatever"
-                      },
-                      {
-                        "2": "more stuff and junk blah blah"
-                      }
-                    ]
+                ],
+                "desc": "",
+                "info": [
+                  "whatever",
+                  "more stuff and junk"
+                ]
+              },
+              {
+                "fig": "2",
+                "pics": [
+                  {
+                    "source": "public/images/productImages/D5379/image002.jpg",
+                    "title": ""
                   }
-                },
-                {
-                  "3": {
-                    "pic": "someurl",
-                    "desc": "Nickel Superalloy Iosipescu Shear Test Fixture for Use to 1500°F (815°C)",
-                    "info": "more stuff"
+                ],
+                "desc": "ASTM Standard D 5379 Iosipescu Shear Test Fixture, shown with Optional Adapter",
+                "info": [
+                  "whatever",
+                  "more stuff and junk blah blah"
+                ]
+              },
+              {
+                "fig": "3",
+                "pics": [
+                  {
+                    "source": "public/images/productImages/D5379/image003.jpg",
+                    "title": ""
                   }
-                }
-              ],
-              "sources": {
-                "1": "ASTM Standard D5379-12, \"Standard Test Method for Shear Properties of Composite Materials by the V-Notched Beam Method,\" American Society for Testing and Materials, West Conshohocken, Pennsylvania (first published in May 1993)."
+                ],
+                "desc": "Nickel Superalloy Iosipescu Shear Test Fixture for Use to 1500°F (815°C)",
+                "info": [
+                  "whatever",
+                  "more stuff and junk blah blah"
+                ]
               }
-            }
+            ],
+            "sources": [
+              {
+                "1": "ASTM Standard D5379-12, \"Standard Test Method for Shear Properties of Composite Materials by the V-Notched Beam Method,\" American Society for Testing and Materials, West Conshohocken, Pennsylvania (first published in May 1993)."
+              },
+              {
+                "2": "N. Iosipescu, \"New Accurate Procedure for Single Shear Testing of Metals,\" Journal of Materials, Vol. 2, No. 3, September 1967, pp. 537-566."
+              }
+            ]
           }
         }
       },

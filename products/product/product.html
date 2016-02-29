@@ -1,14 +1,18 @@
 <div class="container">
-    <p class="title">{{productInfo.name}}</p>
-    <p class="under-heading">Model No. {{productInfo.model}} ({{productInfo.material}})</p>
+    <h4 class="title">{{productInfo.name}}</h4>
+    <h5 class="sub-heading">Model No. {{productInfo.model}} ({{productInfo.material}})</h5>
+    <br>
+
     <!--start repeat of figures for productInfo-->
     <div ng-repeat="figure in productInfo.figures">
-        <!--start image repeat for figure-->
-        <div  class="col-xs-12 col-sm-6" ng-repeat="img in figure.pics">
-            <img ng-src="{{img.source}}">
-            <div>{{img.title}}</div>
+        <div class="container img-wrap ">
+            <!--start image repeat for figure-->
+            <div class="col-xs-12 col-sm-6 center-block" ng-repeat="img in figure.pics">
+                <img  class="" ng-src="{{img.source}}">
+                <p>{{img.title}}</p>
+            </div>
+            <p class="sub-heading center">Fig. {{figure.fig}}: {{figure.desc}}</p>
         </div>
-        <div>Fig. {{figure.fig}}: {{figure.desc}}</div>
         <!--end image repeat for figure-->
         <div ng-repeat="paragraph in figure.info">
             <p>{{paragraph}}</p>

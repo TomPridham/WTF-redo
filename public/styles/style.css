@@ -86,3 +86,22 @@ body {
     font-size: 150%;
     color:pink;
 }
+
+.title {
+    text-align: center;
+}
+
+.sub-heading {
+    text-align: center;
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
+.img-wrap{
+   text-align: center;
+    margin:auto;
+    width: 600px
+}
