@@ -8,12 +8,14 @@ html {
 
 body {
     font-family: Verdana, sans-serif;
-    color: #777777;
+    /*color: #777777;*/
+    color: #6F4E37
+
 }
 
 .navbar-default {
     border-bottom: none;
-    opacity: .5;
+    opacity: .7;
     background-color: #FDFDFE;
 
 }
@@ -78,8 +80,8 @@ body {
 .yellow {
     color: #FFD100;
 }
-.brown{
-    color: #673423
+.dark-text{
+    color: #777777;
 }
 
 .border {
