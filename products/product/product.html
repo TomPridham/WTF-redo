@@ -7,7 +7,7 @@
 
     <!--start repeat of figures for productInfo-->
     <div ng-repeat="figure in productInfo.figures">
-        <div class="img-wrap container-fluid">
+        <div class="img-wrap">
             <img-dir ng-repeat="img in figure.pics" image="img" images="figure.pics"></img-dir>
         </div>
         <p class="sub-heading text-box">Fig. {{figure.fig}}: {{figure.desc}}</p>

@@ -8,11 +8,9 @@
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.css" rel="stylesheet">
     <link rel="stylesheet" href="public/styles/style.css">
 
-    <!--<link rel="stylesheet" href="public/styles/narrow-jumbotron.css">-->
-
     <title>Wyoming Test Fixtures</title>
 </head>
-<body class="dark container">
+<body class="dark-back container">
 <section class="top-main">
     <nav class="navbar navbar-default navbar-static-top">
         <div class="container-fluid center">
@@ -27,13 +25,13 @@
                     <!--end hamburger icon-->
                 </button>
                 <a class="" ui-sref="home">
-                    <img class="logo navbar-brand" src="public/images/logo-stylized.gif" alt="">
+                    <div class="logo"></div>
                 </a>
             </div>
             <!--expandable/collapsable navigation menu-->
             <div id="navbar" class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
-                    <li><a ui-sref="home">Home</a></li>
+                    <li><a class="collapse('hide')" ui-sref="home">Home</a></li>
                     <li><a ui-sref="company">Company</a></li>
                     <li><a ui-sref="products">Products</a></li>
                     <li><a ui-sref="contact">Contact</a></li>
@@ -51,15 +49,15 @@
 </main>
 
 <footer class="footer ">
-    <div class="container ">
+    <div class="container">
         <div class="squish">
-            <p>Wyoming Test Fixtures Inc. </p>
-            <p>2960 E. Millcreek Canyon Rd. Salt Lake City, UT 84109</p>
+            <p class="unspace"><span class="yellow-text"><strong>Wyoming Test Fixtures Inc. </strong></span></p>
+            <p class="unspace">2960 E. Millcreek Canyon Rd. Salt Lake City, UT 84109</p>
         </div>
-        <div class="squish">
-            <p>Phone: 801-484-5055 </p>
-            <p> Fax: 801-484-6008 </p>
-            <p>E-mail: wtf@wyomingtestfixtures.com</p>
+        <div class="squish ">
+            <p class="unspace"><strong>P</strong> 801-484-5055 </p>
+            <p class="unspace"><strong>F</strong> 801-484-6008 </p>
+            <p class="unspace"><strong>E</strong><span class="yellow-text"> wtf@wyomingtestfixtures.com</span></p>
         </div>
     </div>
 </footer>
@@ -69,6 +67,13 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.2.18/angular-ui-router.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.js"></script>
 
+<script>
+    $(document).on('click','.navbar-collapse.in',function(e) {
+        if( $(e.target).is('a') ) {
+            $(this).collapse('hide');
+        }
+    });
+</script>
 <script src="app.js"></script>
 <script src="home/homeController.js"></script>
 <script src="company/companyController.js"></script>
