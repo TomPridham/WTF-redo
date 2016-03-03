@@ -243,7 +243,7 @@ a:active {
     }
 
     .employee {
-        width: 100%;
+        width: 30rem;
     }
 
     .employee > img {
@@ -320,10 +320,11 @@ a:active {
     .text-box {
         margin-top: .5rem;
         width: 100%;
+
     }
 
     .employee {
-        width: 100%;
+        width: 30rem;
     }
 
     .employee > img {
