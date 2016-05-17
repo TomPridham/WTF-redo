@@ -208,10 +208,10 @@ a:active {
     }
 
     .border {
-        border-right: none;
-        border-left: none;
-        border-bottom: solid 2px;
-        border-top: solid 2px;
+        border-right: solid 2px;
+        border-left: solid 2px;
+        border-bottom: none;
+        border-top: none;
     }
 
     .space {
