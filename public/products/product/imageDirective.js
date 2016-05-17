@@ -1,6 +1,3 @@
-/**
- * Created by Tom on 2/29/2016.
- */
 
 //directive that is used to format images nicely based on number of images in collection
 angular.module('WTF').directive('imgDir', function () {

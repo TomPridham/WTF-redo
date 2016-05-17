@@ -3,6 +3,16 @@
 const Mongoose = require('mongoose');
 const Schema = Mongoose.Schema;
 
+const picture = new Schema({
+    link:{
+        type:String,
+        required: true
+    },
+    alt:{
+        type:String
+    }
+});
+
 const product = new Schema({
     "pictures":{
         type:[[String]],

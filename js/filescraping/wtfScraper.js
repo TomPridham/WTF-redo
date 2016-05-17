@@ -1,6 +1,3 @@
-/**
- * Created by Tom on 3/29/2016.
- */
 `use strict`;
 //imports
 const dh = require('./dbHelpers');
@@ -9,21 +6,7 @@ const fs = require(`fs`);
 
 //define some option constants
 const searchTerms = [
-    `name=topW></a>`,
-    `<td>common name:</td>`,
-    `<td>family:</td>`,
-    `<td>known hazards:</td>`,
-    `<td>range:</td>`,
-    `<td>habitat:</td>`,
-    `<td>edibility rating (1-5):</td>`,
-    `<td>medicinal rating (1-5):</td>`,
-    `</a>physical characteristics</h2>`,
-    `</a>habitats and possible locations</h2>`,
-    `</a>edible uses</h2>`,
-    `</a>medicinal uses</h2>`,
-    `</a>other uses</h2>`,
-    `</a>cultivation details</h2>`,
-    `</a>propagation</h2>`
+    
 ];
 
 //define some variables for later use
